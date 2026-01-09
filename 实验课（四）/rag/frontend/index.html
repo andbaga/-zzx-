@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LightRAG | 知识图谱助手</title>
+    <link rel="stylesheet" href="frontend/style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</head>
+
+<body>
+    <div class="glass-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i data-feather="box" class="logo-icon"></i>
+                <span class="logo-text">LightRAG</span>
+            </div>
+
+            <nav class="nav-links">
+                <a href="#" class="nav-item active" data-panel="chat">
+                    <i data-feather="message-square"></i>
+                    <span>智能问答</span>
+                </a>
+                <a href="#" class="nav-item" data-panel="graph">
+                    <i data-feather="share-2"></i>
+                    <span>知识图谱</span>
+                </a>
+                <a href="#" class="nav-item" data-panel="settings">
+                    <i data-feather="settings"></i>
+                    <span>系统设置</span>
+                </a>
+            </nav>
+
+            <div class="examples-panel">
+                <h3>测试案例</h3>
+                <div class="example-item" onclick="useExample('最常见的皮肤癌类型是什么？')">最常见的皮肤癌？</div>
+                <div class="example-item" onclick="useExample('基底细胞癌起源于哪种细胞类型？')">起源细胞类型？</div>
+                <div class="example-item" onclick="useExample('基底细胞癌最常发生在哪些部位？')">常用发病位置？</div>
+                <div class="example-item" onclick="useExample('鳞状细胞癌和基底细胞癌有什么区别？')">癌种对比区别</div>
+            </div>
+
+            <div class="stats-panel">
+                <h3>系统状态</h3>
+                <div class="stat-card">
+                    <span class="stat-label">知识库</span>
+                    <span class="stat-value" id="status-corpus">医学 (Medical)</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">LLM 模型</span>
+                    <span class="stat-value" id="status-model">DeepSeek-Chat</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-label">运行状态</span>
+                    <span class="stat-value pulse" id="status-online">在线</span>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div class="search-bar">
+                    <i data-feather="search"></i>
+                    <input type="text" placeholder="探索知识图谱...">
+                </div>
+                <div class="user-profile">
+                    <div class="avatar">U</div>
+                </div>
+            </header>
+
+            <!-- Chat Panel -->
+            <div class="panel chat-container" id="panel-chat">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message ai-message">
+                        <div class="message-content">
+                            您好！我是您的 LightRAG 智能助手。我已经完成了医学语料库的图谱索引，准备好回答您的任何医学问题。今天我能帮您做什么？
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chat-input-area">
+                    <div class="input-wrapper">
+                        <textarea id="user-input" placeholder="请输入您的医学问题..." rows="1"></textarea>
+                        <button id="send-btn">
+                            <i data-feather="send"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Knowledge Graph Panel -->
+            <div class="panel info-panel" id="panel-graph" style="display: none;">
+                <h2>📊 知识图谱统计</h2>
+                <div class="info-grid">
+                    <div class="info-card">
+                        <div class="info-icon">🔵</div>
+                        <div class="info-value" id="graph-entities">--</div>
+                        <div class="info-label">实体节点</div>
+                    </div>
+                    <div class="info-card">
+                        <div class="info-icon">🔗</div>
+                        <div class="info-value" id="graph-relations">--</div>
+                        <div class="info-label">关系边</div>
+                    </div>
+                    <div class="info-card">
+                        <div class="info-icon">📄</div>
+                        <div class="info-value" id="graph-chunks">--</div>
+                        <div class="info-label">文本区块</div>
+                    </div>
+                </div>
+                <div class="info-description">
+                    <h3>📋 图谱说明</h3>
+                    <p>本知识图谱基于医学语料库构建，使用 LightRAG 框架进行实体抽取和关系链接。</p>
+                    <ul>
+                        <li><strong>实体节点</strong>：从文档中抽取的关键概念（如疾病、症状、治疗方法）</li>
+                        <li><strong>关系边</strong>：实体之间的语义关联（如"治疗"、"导致"、"属于"）</li>
+                        <li><strong>文本区块</strong>：原始文档切分后的片段，用于检索增强生成</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Settings Panel -->
+            <div class="panel info-panel" id="panel-settings" style="display: none;">
+                <h2>⚙️ 系统设置</h2>
+                <div class="settings-section">
+                    <h3>🤖 模型配置</h3>
+                    <div class="setting-item">
+                        <span class="setting-label">LLM 模型</span>
+                        <span class="setting-value" id="setting-model">DeepSeek-Chat</span>
+                    </div>
+                    <div class="setting-item">
+                        <span class="setting-label">Embedding 模型</span>
+                        <span class="setting-value" id="setting-embed">BAAI/bge-large-en-v1.5</span>
+                    </div>
+                    <div class="setting-item">
+                        <span class="setting-label">API 地址</span>
+                        <span class="setting-value" id="setting-url">https://api.deepseek.com/v1</span>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3>📁 数据配置</h3>
+                    <div class="setting-item">
+                        <span class="setting-label">当前语料库</span>
+                        <span class="setting-value" id="setting-corpus">Medical (医学)</span>
+                    </div>
+                    <div class="setting-item">
+                        <span class="setting-label">工作目录</span>
+                        <span class="setting-value">./Examples/lightrag_workspace/Medical</span>
+                    </div>
+                </div>
+                <div class="settings-section">
+                    <h3>📖 使用说明</h3>
+                    <p>1. 在"智能问答"面板输入医学相关问题</p>
+                    <p>2. 系统会从知识图谱中检索相关信息并生成回答</p>
+                    <p>3. 支持中英文混合查询</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="frontend/app.js"></script>
+    <script>
+        feather.replace();
+    </script>
+</body>
+
+</html>

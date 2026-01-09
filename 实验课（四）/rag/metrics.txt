@@ -1,0 +1,21 @@
+Average metrics for lightrag:
+  num_nodes: 1049.0000
+  num_edges: 1291.0000
+  average_degree: 2.4614
+  density: 0.0023
+  num_components: 101.0000
+  largest_component_size: 905.0000
+  average_clustering_coefficient: 0.1137
+  diameter: inf
+  average_component_size: 38.9200
+  median_component_size: 3.0000
+  trimmed_mean_component_size: 2.8696
+  geometric_mean_component_size: 3.4255
+  harmonic_mean_component_size: 2.7171
+  num_components_excluding_isolated: 25.0000
+  num_components_above_average: 1.0000
+  num_nodes_excluding_isolated: 973.0000
+  num_isolated_nodes: 76.0000
+  num_nodes_degree_above_1: 455.0000
+  num_nodes_degree_above_2: 272.0000
+  num_nodes_degree_above_3: 177.0000
