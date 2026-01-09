@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Medical-73586ddc",
+    "question": "What is the most common type of skin cancer?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma (BCC) is the most common type of skin cancer.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Based on the provided information, **basal cell skin cancer** is the most common type of skin cancer.\n\nIt is explicitly described as \"the most common type of skin cancer\" and is also known as basal cell carcinoma (BCC). In the United States, about 3 million cases are diagnosed every year. It is often grouped with squamous cell skin cancers under the broader category of nonmelanoma skin cancers, with squamous cell skin cancer being the second most common type.\n\n### References\n\n- [1] \n- [2]",
+    "ground_truth": "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+  },
+  {
+    "id": "Medical-a8bad1cf",
+    "question": "From which cell type does basal cell carcinoma arise?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma arises from basal cells.; Basal cells are located in the lower part of the epidermis.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC), also known as basal cell skin cancer, arises from **basal cells**.\n\nSpecifically, basal cells are located in the **lower part of the epidermis**, which is the top layer of the skin. These cells normally function by constantly dividing to form new cells that replace the squamous cells on the skin's surface. Basal cell carcinoma occurs when some of these basal cells become abnormal and grow out of control.\n\n### References\n\n- [1] About basal cell skin cancer What is basal cell skin cancer? How is basal cell skin cancer treated? What can you do to get the best care?",
+    "ground_truth": "Basal cell carcinoma arises from basal cells in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-422500d5",
+    "question": "Which anatomical locations are most commonly affected by basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC most commonly develops in sun-exposed areas.; Common sun-exposed areas for BCC include the face.; Common sun-exposed areas for BCC include the head.; Common sun-exposed areas for BCC include the neck.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Based on the provided information, basal cell carcinoma (BCC), also known as basal cell skin cancer, most commonly develops in areas of the body that are frequently exposed to the sun.\n\nThe **most common anatomical locations** for basal cell carcinoma are:\n\n*   **Face**\n*   **Head**\n*   **Neck**\n*   **Arms**\n*   **Trunk** (the torso)\n\nThis cancer originates from abnormal basal cells in the epidermis and typically appears in these sun-exposed regions. While it is most often found on the face, head, and neck, it is important to note that basal cell carcinoma can occur anywhere on the body.\n\n### References\n\n- [1] About basal cell skin cancer What is basal cell skin cancer? How is basal cell skin cancer treated? What can you do to get the best care?",
+    "ground_truth": "BCC most commonly develops in sun-exposed areas such as the face, head, and neck."
+  }
+]
