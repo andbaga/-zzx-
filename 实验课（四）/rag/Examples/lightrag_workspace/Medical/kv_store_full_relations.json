@@ -1,0 +1,5174 @@
+{
+  "doc-15020fd4cd7fd9c91cf0476b50c29b02": {
+    "relation_pairs": [
+      [
+        "Chapter 2: Testing For AML",
+        "Genetic And Biomarker Mutation Testing"
+      ],
+      [
+        "Smoking",
+        "Treatment Outcomes"
+      ],
+      [
+        "Distress",
+        "Distress Screening"
+      ],
+      [
+        "Adjuvant Therapy",
+        "Recurrence"
+      ],
+      [
+        "Gastrointestinal Tract",
+        "Small Intestine"
+      ],
+      [
+        "Chromosome 22",
+        "Philadelphia Chromosome (Ph)"
+      ],
+      [
+        "Lung Nodules",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Immune Checkpoint Inhibitor Therapy",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Endocrine Tests",
+        "Head And Neck Cancer"
+      ],
+      [
+        "Adrenal Cortex",
+        "Adrenocortical Carcinoma"
+      ],
+      [
+        "Nutrition Assessment",
+        "Nutritionist"
+      ],
+      [
+        "Cemiplimab-Rwlc",
+        "Regional CSCC"
+      ],
+      [
+        "Biomarker Testing",
+        "NTRK Gene Fusion"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Transformed Follicular Lymphoma"
+      ],
+      [
+        "Bronchi",
+        "Trachea"
+      ],
+      [
+        "Hyperthermic Intraperitoneal Chemotherapy",
+        "Interval Cytoreductive Surgery"
+      ],
+      [
+        "Esophagus",
+        "Stomach"
+      ],
+      [
+        "Doctor",
+        "Imaging"
+      ],
+      [
+        "Esophageal Adenocarcinoma",
+        "Esophageal Cancer"
+      ],
+      [
+        "Mohs Surgery",
+        "Scalpel"
+      ],
+      [
+        "Imaging Studies",
+        "Treatment Plan"
+      ],
+      [
+        "Radiation Oncologist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Carcinogens",
+        "SCLC"
+      ],
+      [
+        "Nurse Navigator",
+        "Oncology Nurse"
+      ],
+      [
+        "Mouth Cancer",
+        "TNM Staging"
+      ],
+      [
+        "Complete Head And Neck Exam",
+        "Physical Exam"
+      ],
+      [
+        "Tumor",
+        "Tumor Grade"
+      ],
+      [
+        "Adenosquamous Carcinoma",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Cancer Treatment",
+        "Testing"
+      ],
+      [
+        "Granulocytes",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Complete Blood Count And Differential",
+        "Red Blood Cell Transfusion"
+      ],
+      [
+        "Sentinel Lymph Node Biopsy",
+        "Surgeon"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Carney Complex"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "Imaging Studies",
+        "Testing"
+      ],
+      [
+        "Audiogram",
+        "Hearing Test"
+      ],
+      [
+        "FLT3",
+        "Sorafenib"
+      ],
+      [
+        "Esophagus",
+        "Sphincters"
+      ],
+      [
+        "CSCC",
+        "Pembrolizumab"
+      ],
+      [
+        "Bone Marrow Aspirate And Biopsy",
+        "Guide 1"
+      ],
+      [
+        "Comprehensive Metabolic Panel",
+        "Electrolytes"
+      ],
+      [
+        "Contrast Material",
+        "Kidneys"
+      ],
+      [
+        "Ovarian Cancer",
+        "Ovaries"
+      ],
+      [
+        "Nicotine",
+        "Smoking"
+      ],
+      [
+        "Biochemical Tests",
+        "Guide 1 Biochemical Tests"
+      ],
+      [
+        "Comprehensive Metabolic Panel",
+        "Creatinine"
+      ],
+      [
+        "Computed Tomography Scan",
+        "Regional CSCC"
+      ],
+      [
+        "Mucosa",
+        "Muscularis Mucosa"
+      ],
+      [
+        "Contrast Agent",
+        "MRI"
+      ],
+      [
+        "Port",
+        "Systemic Therapy"
+      ],
+      [
+        "Ovarian Cancer Surgery",
+        "Treatment Team"
+      ],
+      [
+        "NCCN",
+        "National Comprehensive Cancer Network"
+      ],
+      [
+        "Anthracyclines",
+        "Multi-Agent Chemotherapy"
+      ],
+      [
+        "Sentinel Lymph Node",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Adrenal Medulla",
+        "Pheochromocytoma"
+      ],
+      [
+        "Lupus",
+        "Radiation Therapy"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Immune Suppression"
+      ],
+      [
+        "Abdominal Exam",
+        "Ascites"
+      ],
+      [
+        "Beta-Human Chorionic Gonadotropin",
+        "Tumor Markers"
+      ],
+      [
+        "Homologous Recombination Deficiency",
+        "PARP Inhibitors"
+      ],
+      [
+        "Lymphocytes",
+        "Lymphoma"
+      ],
+      [
+        "Imaging Test",
+        "Scope"
+      ],
+      [
+        "Gene",
+        "Proteins"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 3A1"
+      ],
+      [
+        "Early And Locally Advanced NSCLC",
+        "Stage 3 Cancer"
+      ],
+      [
+        "Squamous Cell Carcinoma",
+        "Weakened Immune System"
+      ],
+      [
+        "Next-Generation Sequencing",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "Pathologist",
+        "Tumor Histology"
+      ],
+      [
+        "Depth Of Invasion",
+        "Oral Mucosa"
+      ],
+      [
+        "Airways Of The Lungs",
+        "Trachea"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Germinal Centers"
+      ],
+      [
+        "PET Scan",
+        "Tracer"
+      ],
+      [
+        "AML",
+        "Blood Tests"
+      ],
+      [
+        "Medical Records",
+        "Patient"
+      ],
+      [
+        "Lymph Node Status",
+        "TNM System"
+      ],
+      [
+        "Allogeneic Hematopoietic Cell Transplant",
+        "HLA Typing"
+      ],
+      [
+        "Hyperkeratosis",
+        "Topical Tazarotene"
+      ],
+      [
+        "Chemotherapy",
+        "Interval Cytoreductive Surgery"
+      ],
+      [
+        "Lung Cancer",
+        "Second-Hand Smoke"
+      ],
+      [
+        "Depth Of Invasion",
+        "Tumor"
+      ],
+      [
+        "Ear Nose And Throat Doctor",
+        "Neck"
+      ],
+      [
+        "Care Team",
+        "Social Worker"
+      ],
+      [
+        "Esophageal Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Blood Tests",
+        "Ovarian Cancer"
+      ],
+      [
+        "Assessment Team",
+        "Radiation Oncologist"
+      ],
+      [
+        "AML",
+        "Guide 1"
+      ],
+      [
+        "Biomarker Testing",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Anesthesia",
+        "Cannabis Use"
+      ],
+      [
+        "Neuroendocrine Cells",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Dentists",
+        "Oral Surgeons"
+      ],
+      [
+        "Cancer Care Team",
+        "Metric System"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphocytes"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Skin Exam"
+      ],
+      [
+        "Stage 3",
+        "Stage 3A2"
+      ],
+      [
+        "Blood Stem Cells",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Cancer Antigen-125",
+        "Endometriosis"
+      ],
+      [
+        "APL",
+        "PML::RARA Fusion Gene"
+      ],
+      [
+        "Care Team",
+        "Patient"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Lynch Syndrome"
+      ],
+      [
+        "Epithelium",
+        "Mucosa"
+      ],
+      [
+        "Advanced Cancers",
+        "Biomarker Testing"
+      ],
+      [
+        "Clinical Stage",
+        "Ovarian Cancer"
+      ],
+      [
+        "Folic Acid",
+        "White Blood Cell"
+      ],
+      [
+        "Genetic Testing",
+        "Gynecology Care Team"
+      ],
+      [
+        "Epidermis",
+        "Squamous Cells"
+      ],
+      [
+        "Esophagus",
+        "Striated Muscle"
+      ],
+      [
+        "Marjolin Ulcer",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Lymph Nodes",
+        "Throat Cancer"
+      ],
+      [
+        "Pharmacist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Lung Cancer Screening",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Biopsy",
+        "Imaging Studies"
+      ],
+      [
+        "Chapter 2: Testing For AML",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Mouth Cancer",
+        "Oral Cavity"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "BCR::ABL1 Protein"
+      ],
+      [
+        "Care Team",
+        "Treatment For NSCLC"
+      ],
+      [
+        "CSCC",
+        "Cetuximab"
+      ],
+      [
+        "Local CSCC",
+        "Skin Exam"
+      ],
+      [
+        "HER2 Expression",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "NCCN Guidelines For Patients",
+        "Questions To Ask"
+      ],
+      [
+        "Skin Biopsy",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Assessment Team",
+        "Medical Oncologist"
+      ],
+      [
+        "Lymph Nodes",
+        "Stage 3 Cancer"
+      ],
+      [
+        "Oncologist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Genetic Syndromes",
+        "NCCN"
+      ],
+      [
+        "Chemotherapy",
+        "Fertility Preservation"
+      ],
+      [
+        "Care Team",
+        "Medical Binder"
+      ],
+      [
+        "Smoking",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Vaping"
+      ],
+      [
+        "Blood Clotting Tests",
+        "Disseminated Intravascular Coagulation Panel"
+      ],
+      [
+        "Surgery",
+        "Vaping"
+      ],
+      [
+        "Oropharynx",
+        "Pharynx"
+      ],
+      [
+        "NCCN",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Biomarker Testing",
+        "Folate Receptor Alpha Expression"
+      ],
+      [
+        "PET CT",
+        "PET Scan"
+      ],
+      [
+        "Clinical Trial",
+        "Research Team"
+      ],
+      [
+        "Chromosome",
+        "Deoxyribonucleic Acid"
+      ],
+      [
+        "Regional CSCC",
+        "Skin Exam"
+      ],
+      [
+        "Support System",
+        "Testing"
+      ],
+      [
+        "Sentinel Lymph Node Biopsy",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Weakened Immune System"
+      ],
+      [
+        "Brain CT Scan",
+        "Contrast Material"
+      ],
+      [
+        "Metastatic Cancer",
+        "Spleen"
+      ],
+      [
+        "Antimetabolites",
+        "Multi-Agent Chemotherapy"
+      ],
+      [
+        "Immunotherapy",
+        "Systemic Therapies"
+      ],
+      [
+        "Microscopic Metastases",
+        "Surgical Staging"
+      ],
+      [
+        "AML Mutation Testing",
+        "Next-Generation Sequencing"
+      ],
+      [
+        "Biomarker Testing",
+        "Precision Oncology"
+      ],
+      [
+        "Adrenal Adenoma",
+        "Aldosteronoma"
+      ],
+      [
+        "B12 And Folic Acid Test",
+        "Folic Acid"
+      ],
+      [
+        "Calcipotriene",
+        "Dovonex"
+      ],
+      [
+        "Online Portals",
+        "Patient"
+      ],
+      [
+        "FIGO Staging System",
+        "International Federation Of Gynecology And Obstetrics"
+      ],
+      [
+        "Low-Risk CSCC",
+        "Surgery"
+      ],
+      [
+        "Hearing Test",
+        "Testing"
+      ],
+      [
+        "Adrenal Adenoma",
+        "Cushing Syndrome"
+      ],
+      [
+        "PDEMA/Mohs Surgery",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Local Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Surgery"
+      ],
+      [
+        "Chronic Myeloid Leukemia (CML)",
+        "Philadelphia (Ph) Chromosome"
+      ],
+      [
+        "Electrocardiogram",
+        "Heart"
+      ],
+      [
+        "This Chapter",
+        "Throat Cancer"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Neurofibromatosis Type 1"
+      ],
+      [
+        "Nodular Lymphocyte-Predominant Hodgkin Lymphoma",
+        "Popcorn-Shaped Cells"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Face"
+      ],
+      [
+        "Chapter 2: Testing For AML",
+        "Heart Tests"
+      ],
+      [
+        "Head and Neck Cancers",
+        "High-Volume Center"
+      ],
+      [
+        "MRI Scan",
+        "PET Scan"
+      ],
+      [
+        "FLT3",
+        "Proteins"
+      ],
+      [
+        "Blood Thinners",
+        "Deep Vein Thrombosis"
+      ],
+      [
+        "Antimetabolites",
+        "Methotrexate"
+      ],
+      [
+        "Insurance Forms",
+        "Patient"
+      ],
+      [
+        "AML",
+        "B12 And Folic Acid Test"
+      ],
+      [
+        "Metastatic Cancer",
+        "Pancreas"
+      ],
+      [
+        "Biopsy",
+        "Ovarian Cancer"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Doctor",
+        "Skin Biopsy"
+      ],
+      [
+        "Lymph Node Dissection",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Combined Cell Lung Carcinoma",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Excisional Lymph Node Biopsy",
+        "Guide 1 Testing For Hodgkin Lymphoma"
+      ],
+      [
+        "BRCA1 Gene",
+        "Genetic Testing"
+      ],
+      [
+        "Blood Stem Cell",
+        "Myeloid Progenitor Cell"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Light Eye Color"
+      ],
+      [
+        "Tumor Mutational Burden",
+        "Unresectable Cancers"
+      ],
+      [
+        "PD-L1 Testing",
+        "Programmed Death Ligand 1"
+      ],
+      [
+        "Ear Nose And Throat Doctor",
+        "Glands"
+      ],
+      [
+        "Clinical Trial",
+        "Immunotherapy"
+      ],
+      [
+        "Clinical Trial",
+        "Insurance"
+      ],
+      [
+        "Flow Cytometry",
+        "Peripheral Blood"
+      ],
+      [
+        "Adenoma",
+        "Adrenal Glands"
+      ],
+      [
+        "18-Fluorodeoxyglucose",
+        "FDG-PET Scan"
+      ],
+      [
+        "Radiation Therapy",
+        "Treatment For NSCLC"
+      ],
+      [
+        "Cardiologist",
+        "Heart Tests"
+      ],
+      [
+        "T Lymphocytes",
+        "Thymus"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Genetic And Biomarker Tests"
+      ],
+      [
+        "Klisyri",
+        "Tirbanibulin"
+      ],
+      [
+        "Gemtuzumab Ozogamicin",
+        "Targeted Therapy"
+      ],
+      [
+        "Imaging",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Complete Blood Count",
+        "Guide 1"
+      ],
+      [
+        "Mutation",
+        "Point Mutation"
+      ],
+      [
+        "Head And Neck Cancers",
+        "Throat Cancer"
+      ],
+      [
+        "Pathologist",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Niraparib",
+        "Zejula"
+      ],
+      [
+        "Ovarian Cancer",
+        "Peritoneal Washing"
+      ],
+      [
+        "Blood Tests",
+        "Test Results"
+      ],
+      [
+        "Low-Risk CSCC",
+        "Shave Excision"
+      ],
+      [
+        "Radiation Therapy",
+        "Systemic Therapies"
+      ],
+      [
+        "Insurance",
+        "Patient"
+      ],
+      [
+        "Cancer",
+        "Extracapsular Extension"
+      ],
+      [
+        "SCLC",
+        "X-Rays"
+      ],
+      [
+        "Hysterectomy",
+        "Surgery"
+      ],
+      [
+        "Platinum-Based Chemotherapy",
+        "Platinum-Sensitive Cancer"
+      ],
+      [
+        "Heart Tests",
+        "Treatment Side Effects"
+      ],
+      [
+        "Base of the Tongue",
+        "Oropharynx"
+      ],
+      [
+        "Actinic Keratosis",
+        "Dermatologist"
+      ],
+      [
+        "Anus",
+        "Digestive System"
+      ],
+      [
+        "Imaging Tests",
+        "Test Results"
+      ],
+      [
+        "Dangerous Heart Rhythms",
+        "Prolonged Corrected QT Interval"
+      ],
+      [
+        "Provider",
+        "Registered Dietitian Or Nutritionist"
+      ],
+      [
+        "CT Scan",
+        "Contrast Agent"
+      ],
+      [
+        "Lymph",
+        "Lymph Nodes"
+      ],
+      [
+        "Chronic Wounds",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Stage 2",
+        "Stage 2A"
+      ],
+      [
+        "High-Grade Serous Carcinoma",
+        "Ovarian Cancer"
+      ],
+      [
+        "CSCC",
+        "Cemiplimab"
+      ],
+      [
+        "Base Of The Tongue",
+        "Oropharynx"
+      ],
+      [
+        "5-Fluorouracil",
+        "Actinic Keratosis"
+      ],
+      [
+        "Oral Cavity",
+        "Oral Mucosa"
+      ],
+      [
+        "Genetic Testing",
+        "Maintenance Therapy"
+      ],
+      [
+        "Clinical Trial",
+        "Placebo"
+      ],
+      [
+        "T4a Tumor",
+        "TNM Staging"
+      ],
+      [
+        "Doctor",
+        "Risk Assessment"
+      ],
+      [
+        "Deletion",
+        "Mutation"
+      ],
+      [
+        "Cancer Staging",
+        "Tumor"
+      ],
+      [
+        "Extracapsular Extension",
+        "Systemic Therapy"
+      ],
+      [
+        "Mohs Surgery",
+        "Very High-Risk CSCC"
+      ],
+      [
+        "Biomarker Testing",
+        "Mismatch Repair"
+      ],
+      [
+        "Complete Blood Count And Differential",
+        "Red Blood Cells"
+      ],
+      [
+        "Care Team",
+        "Primary Care Physician"
+      ],
+      [
+        "Care Team",
+        "Patient Advocacy"
+      ],
+      [
+        "FDG-PET/CT",
+        "Fluorodeoxyglucose"
+      ],
+      [
+        "Lymphovascular Invasion",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Epithelium",
+        "Oral Mucosa"
+      ],
+      [
+        "Photodynamic Therapy",
+        "Superficial Treatments"
+      ],
+      [
+        "CT Scans",
+        "SCLC"
+      ],
+      [
+        "Adenocarcinoma",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Alveoli",
+        "Bronchioli"
+      ],
+      [
+        "Care Team",
+        "Primary Care Physician (PCP)"
+      ],
+      [
+        "Clinical Trial",
+        "Informed Consent"
+      ],
+      [
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm",
+        "Skin Lesion Biopsy"
+      ],
+      [
+        "Adrenal Tumors",
+        "Imaging"
+      ],
+      [
+        "Gastrointestinal Tract",
+        "Large Intestine"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Head"
+      ],
+      [
+        "Head and Neck Cancers",
+        "Throat Cancer"
+      ],
+      [
+        "Flow Cytometry",
+        "Immunophenotyping"
+      ],
+      [
+        "AML",
+        "Comprehensive Metabolic Panel"
+      ],
+      [
+        "Care Team",
+        "Contrast Material"
+      ],
+      [
+        "Maintenance Therapy",
+        "Observation"
+      ],
+      [
+        "Adrenal Cortex",
+        "Adrenal Glands"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Germinal Center"
+      ],
+      [
+        "Adjuvant Therapy",
+        "Radiation Therapy"
+      ],
+      [
+        "Blood Test",
+        "Flow Cytometry"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Bone Marrow Biopsy"
+      ],
+      [
+        "Organ Transplant",
+        "Weakened Immune System"
+      ],
+      [
+        "PDEMA",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Digestive System",
+        "Stomach"
+      ],
+      [
+        "AML Mutation Testing",
+        "Karyotype"
+      ],
+      [
+        "Ovarian Cancer",
+        "Symptoms Of Ovarian Cancer"
+      ],
+      [
+        "Ovaries",
+        "Vagina"
+      ],
+      [
+        "Azacitidine",
+        "Hypomethylating Agents"
+      ],
+      [
+        "Cancer Doctors",
+        "Mohs Surgery"
+      ],
+      [
+        "Biomarker Testing",
+        "Clinical Trials"
+      ],
+      [
+        "Online Patient Portals",
+        "Test Results"
+      ],
+      [
+        "Other Cancers",
+        "Vaping"
+      ],
+      [
+        "Stage 3",
+        "Stage 3A1"
+      ],
+      [
+        "Actinic Keratosis",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Early and Locally Advanced NSCLC",
+        "Non-Small Cell Lung Cancer (NSCLC)"
+      ],
+      [
+        "Ovaries",
+        "Symptoms"
+      ],
+      [
+        "Lung Nodules",
+        "Thoracic Surgeon"
+      ],
+      [
+        "FLT3",
+        "Targeted Therapy"
+      ],
+      [
+        "Tumor",
+        "Tumor Shape"
+      ],
+      [
+        "Red Blood Cell",
+        "Vitamin B12"
+      ],
+      [
+        "Myeloblasts",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Mouth Cancer",
+        "Retromolar Trigone"
+      ],
+      [
+        "Biomarker Testing",
+        "HER2 Expression"
+      ],
+      [
+        "Distant Metastasis",
+        "Metastatic Cancer"
+      ],
+      [
+        "General Anesthesia",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Biomarker Testing",
+        "Esophageal Cancer"
+      ],
+      [
+        "NCCN Guidelines For Patients",
+        "Patient"
+      ],
+      [
+        "Hematopoietic Cell Donors",
+        "Leukemia Predisposition Syndromes"
+      ],
+      [
+        "Karnofsky Performance Status",
+        "Performance Status"
+      ],
+      [
+        "Ovaries",
+        "Uterus"
+      ],
+      [
+        "Chronic Myeloid Leukemia (CML)",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Smoking"
+      ],
+      [
+        "Chromosome Translocation And Gene Rearrangement",
+        "RUNX1::RUNX1T1"
+      ],
+      [
+        "Blood",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "Histology",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Immunohistochemistry",
+        "Microscope"
+      ],
+      [
+        "Hormone Replacement Therapy",
+        "Menopausal Symptom Team"
+      ],
+      [
+        "AML",
+        "BPDCN"
+      ],
+      [
+        "Alveoli",
+        "Lung Carcinoma"
+      ],
+      [
+        "Regional Lymph Node",
+        "Tumor"
+      ],
+      [
+        "Skin Graft",
+        "Wound"
+      ],
+      [
+        "Imaging Tests",
+        "Infection"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Biopsy"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphatic Fluid"
+      ],
+      [
+        "Blood Clotting Tests",
+        "Guide 1"
+      ],
+      [
+        "Biomarker",
+        "Immunophenotyping"
+      ],
+      [
+        "Keratinized Squamous Epithelium",
+        "Oral Mucosa"
+      ],
+      [
+        "Chemical Peels",
+        "Trichloroacetic Acid"
+      ],
+      [
+        "Sentinel Lymph Node",
+        "Surgeon"
+      ],
+      [
+        "BCR::ABL1 Protein",
+        "Chronic Myeloid Leukemia (CML)"
+      ],
+      [
+        "Biopsy",
+        "Test Results"
+      ],
+      [
+        "Nicotine",
+        "Vaping"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Full Skin Exams"
+      ],
+      [
+        "Actinic Keratosis",
+        "Hyperkeratosis"
+      ],
+      [
+        "Smoking",
+        "Wound Healing"
+      ],
+      [
+        "Inhibin",
+        "Tumor Markers"
+      ],
+      [
+        "Folic Acid",
+        "Red Blood Cell"
+      ],
+      [
+        "Olaparib",
+        "PARP Inhibitors"
+      ],
+      [
+        "Standard Surgical Excision",
+        "Very High-Risk CSCC"
+      ],
+      [
+        "Melanoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Systemic Therapies",
+        "Targeted Therapy"
+      ],
+      [
+        "Adjuvant Chemotherapy",
+        "Chemotherapy"
+      ],
+      [
+        "Homologous Recombination Deficiency",
+        "Maintenance Therapy"
+      ],
+      [
+        "Microscopic Metastases",
+        "Ovarian Cancer"
+      ],
+      [
+        "Lymph",
+        "Lymphatic Vessels"
+      ],
+      [
+        "Cemiplimab",
+        "Libtayo"
+      ],
+      [
+        "Clinical Trial",
+        "Eligibility Criteria"
+      ],
+      [
+        "Buccal Mucosa",
+        "Mouth Cancer"
+      ],
+      [
+        "Barrett Esophagus",
+        "Esophageal Adenocarcinoma"
+      ],
+      [
+        "High-Grade Endometrioid Carcinoma",
+        "Ovarian Cancer"
+      ],
+      [
+        "Hard Palate",
+        "Mouth Cancer"
+      ],
+      [
+        "Biopsy",
+        "Pathologist"
+      ],
+      [
+        "Nicotine Withdrawal",
+        "Smoking"
+      ],
+      [
+        "NCCN Patient Guides For Cancer App",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Immune System",
+        "Lymphatic System"
+      ],
+      [
+        "Chapter 2: Testing For AML",
+        "Lumbar Puncture"
+      ],
+      [
+        "Care Team",
+        "Distress Screening"
+      ],
+      [
+        "Respiratory System",
+        "Trachea"
+      ],
+      [
+        "Laparotomy",
+        "Surgery"
+      ],
+      [
+        "Lymph Node Biopsy",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Biopsy",
+        "Chemotherapy"
+      ],
+      [
+        "Combined Positive Score",
+        "Immune System"
+      ],
+      [
+        "Lung Cancer Screening",
+        "NCCN Patient Guides For Cancer App"
+      ],
+      [
+        "Follicular Lymphoma",
+        "International Consensus Classification"
+      ],
+      [
+        "Surgery",
+        "Treatment For NSCLC"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Von Hippel-Lindau Syndrome"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Tumor Depth"
+      ],
+      [
+        "Esophagogastric Junction",
+        "Gastroesophageal Junction"
+      ],
+      [
+        "CT Scan",
+        "Regional CSCC"
+      ],
+      [
+        "Recessive Dystrophic Epidermolysis Bullosa",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Patient",
+        "Test Results"
+      ],
+      [
+        "Adenoma",
+        "Adrenal Gland Cancer"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Jaw"
+      ],
+      [
+        "Superficial Treatments",
+        "Topical Therapies"
+      ],
+      [
+        "Trachea",
+        "Windpipe"
+      ],
+      [
+        "Surgery",
+        "Systemic Therapies"
+      ],
+      [
+        "PET Scan",
+        "Sugar Radiotracer"
+      ],
+      [
+        "Chemotherapy",
+        "Intraperitoneal Chemotherapy"
+      ],
+      [
+        "Stage 1",
+        "Stage 1C"
+      ],
+      [
+        "Esophageal Adenocarcinoma",
+        "Western Europe"
+      ],
+      [
+        "Ovarian Cancer",
+        "Surgery"
+      ],
+      [
+        "High-Risk CSCC",
+        "Surgery"
+      ],
+      [
+        "Lynparza",
+        "Olaparib"
+      ],
+      [
+        "Dental Exam",
+        "Head And Neck Cancer"
+      ],
+      [
+        "Contrast",
+        "Prednisone (Steroids)"
+      ],
+      [
+        "Blasts",
+        "Complete Blood Count And Differential"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Imaging Tests"
+      ],
+      [
+        "Chromosome Translocation And Gene Rearrangement",
+        "Mutation"
+      ],
+      [
+        "Esophagus",
+        "Peristalsis"
+      ],
+      [
+        "AML",
+        "Lactate Dehydrogenase Test"
+      ],
+      [
+        "Testing",
+        "Treatment Plan"
+      ],
+      [
+        "Blast Phase CML (BP-CML)",
+        "Chronic Myeloid Leukemia (CML)"
+      ],
+      [
+        "Granulocyte",
+        "White Blood Cell (WBC)"
+      ],
+      [
+        "Lynch Syndrome",
+        "Ovarian Cancer"
+      ],
+      [
+        "DNA Mutations",
+        "Tumor"
+      ],
+      [
+        "Non-Small Cell Lung Cancer",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Ovarian Cancer",
+        "Pelvic Exam"
+      ],
+      [
+        "Radiation Therapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Adrenal Glands",
+        "Adrenal Medulla"
+      ],
+      [
+        "Skin Biopsy",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Inv(16)",
+        "Inversion"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Reed-Sternberg Cells"
+      ],
+      [
+        "BRAF V600E Mutation",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Assessment Team",
+        "Interventional Radiologist"
+      ],
+      [
+        "Alveoli",
+        "Bronchioles"
+      ],
+      [
+        "Care Team",
+        "Medical Oncologist"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Legs"
+      ],
+      [
+        "Maintenance Therapy",
+        "Ovarian Cancer"
+      ],
+      [
+        "Biopsy",
+        "Clinical Stage"
+      ],
+      [
+        "Care Team",
+        "Lymph Nodes"
+      ],
+      [
+        "HE4",
+        "Tumor Markers"
+      ],
+      [
+        "Basal Cell Carcinoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "General Health Tests",
+        "Testing"
+      ],
+      [
+        "Secondary Intention Healing",
+        "Wound"
+      ],
+      [
+        "Lymph Nodes",
+        "Ovarian Cancer"
+      ],
+      [
+        "Colon",
+        "Digestive System"
+      ],
+      [
+        "Platinum-Based Chemotherapy",
+        "Platinum-Resistant Cancer"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Transformed Follicular Lymphoma"
+      ],
+      [
+        "Blood Urea Nitrogen",
+        "Comprehensive Metabolic Panel"
+      ],
+      [
+        "Linear Closure",
+        "Wound"
+      ],
+      [
+        "Classic Follicular Lymphoma",
+        "Follicular Lymphoma Grade 2"
+      ],
+      [
+        "Scalpel",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Lymph",
+        "Lymphocytes"
+      ],
+      [
+        "Care Team",
+        "Lung Nodule"
+      ],
+      [
+        "Barrett Esophagus",
+        "Esophageal Cancer"
+      ],
+      [
+        "Asbestos",
+        "Carcinogens"
+      ],
+      [
+        "Catheter",
+        "Intraperitoneal Chemotherapy"
+      ],
+      [
+        "Omentum",
+        "Surgical Staging"
+      ],
+      [
+        "Cancer Doctors",
+        "Standard Surgical Excision"
+      ],
+      [
+        "AML Mutation Testing",
+        "FISH"
+      ],
+      [
+        "Follicular Lymphoma",
+        "World Health Organization Classification"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "Chromosome 22"
+      ],
+      [
+        "Classic Follicular Lymphoma",
+        "International Consensus Classification"
+      ],
+      [
+        "FLT3",
+        "Quizartinib"
+      ],
+      [
+        "Bone",
+        "Metastatic Cancer"
+      ],
+      [
+        "Assessment Team",
+        "Thoracic Surgeon"
+      ],
+      [
+        "Imaging Scans",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Bronchi",
+        "Bronchioli"
+      ],
+      [
+        "Digestive System",
+        "Pancreas"
+      ],
+      [
+        "Epithelium",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Colonoscopy",
+        "Scope"
+      ],
+      [
+        "Inv(3)",
+        "Inversion"
+      ],
+      [
+        "MRI",
+        "Ovarian Cancer"
+      ],
+      [
+        "Gynecologic Oncologist",
+        "Surgery"
+      ],
+      [
+        "Chronic Myeloid Leukemia (CML)",
+        "Myeloid Progenitor Cell"
+      ],
+      [
+        "Lymph Nodes",
+        "Physical Exam"
+      ],
+      [
+        "Fine Needle Biopsy",
+        "Lymph Node"
+      ],
+      [
+        "Pathologic Stage",
+        "Surgery"
+      ],
+      [
+        "Biopsy",
+        "Esophageal Cancer"
+      ],
+      [
+        "Esophagus",
+        "Spine"
+      ],
+      [
+        "Radiation Therapy",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Other Cancers",
+        "Smoking"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Multiple Endocrine Neoplasia Type 1"
+      ],
+      [
+        "Numbered Stages",
+        "TNM System"
+      ],
+      [
+        "Core Needle Biopsy",
+        "Regional CSCC"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Chapter 4: Treatment By Risk And Recurrence"
+      ],
+      [
+        "Lymphocytes",
+        "White Blood Cells"
+      ],
+      [
+        "Cytarabine",
+        "Intrathecal Chemotherapy"
+      ],
+      [
+        "Uncommon Follicular Lymphoma",
+        "t(14;18)-Negative"
+      ],
+      [
+        "Lymphatic System",
+        "Non-Hodgkin Lymphoma"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Types Of Treatment"
+      ],
+      [
+        "Dentist",
+        "Regular Dental Checkups"
+      ],
+      [
+        "CT Scan",
+        "Contrast Material"
+      ],
+      [
+        "Myeloid Progenitor Cells",
+        "Platelets"
+      ],
+      [
+        "BRCA Genes",
+        "Ovarian Cancer"
+      ],
+      [
+        "Complete Blood Count And Differential",
+        "Hemoglobin"
+      ],
+      [
+        "Nutritional And Digestive Tract Health",
+        "Provider"
+      ],
+      [
+        "Alveolar Ridge",
+        "Mouth Cancer"
+      ],
+      [
+        "BRAF V600E Mutation",
+        "Biomarker Testing"
+      ],
+      [
+        "Location And Size",
+        "Tumor"
+      ],
+      [
+        "Laparoscopy",
+        "Surgery"
+      ],
+      [
+        "Niraparib",
+        "PARP Inhibitors"
+      ],
+      [
+        "Nicotine Addiction",
+        "Smoking Cigarettes"
+      ],
+      [
+        "Chemotherapy",
+        "Maintenance Therapy"
+      ],
+      [
+        "Bronchi",
+        "Lung Carcinoma"
+      ],
+      [
+        "Perineural Invasion",
+        "Tumor"
+      ],
+      [
+        "Kidney Tumor",
+        "Von Hippel-Lindau Syndrome"
+      ],
+      [
+        "Esophagus",
+        "Mucosa"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Medical History"
+      ],
+      [
+        "Imaging Test",
+        "Local CSCC"
+      ],
+      [
+        "Classic Follicular Lymphoma",
+        "Follicular Lymphoma Grade 1"
+      ],
+      [
+        "Chromosome Translocation",
+        "Follicular Lymphoma"
+      ],
+      [
+        "PET/CT Scan",
+        "Positron Emission Tomography (PET) Scan"
+      ],
+      [
+        "Digestive System",
+        "Gastrointestinal Tract"
+      ],
+      [
+        "Stage 4",
+        "Stage 4A"
+      ],
+      [
+        "Melanocytes",
+        "Ultraviolet Rays"
+      ],
+      [
+        "Larynx",
+        "Throat Cancer"
+      ],
+      [
+        "Chapter 5: APL",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Adrenal Glands",
+        "Pheochromocytoma"
+      ],
+      [
+        "Uric Acid",
+        "Uric Acid Test"
+      ],
+      [
+        "Eastern Cooperative Oncology Group",
+        "Performance Status"
+      ],
+      [
+        "Melanin",
+        "Melanocytes"
+      ],
+      [
+        "Docetaxel",
+        "Taxane"
+      ],
+      [
+        "Dental Exam With X-Ray",
+        "Testing"
+      ],
+      [
+        "Bone Marrow Biopsy",
+        "Pelvis"
+      ],
+      [
+        "Cervix",
+        "Ovaries"
+      ],
+      [
+        "Hereditary Cancer",
+        "Ovarian Cancer"
+      ],
+      [
+        "Cancer",
+        "Metastasis"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Mouth Cancer"
+      ],
+      [
+        "Drugs",
+        "Molecular Testing"
+      ],
+      [
+        "Maintenance Therapy",
+        "Recurrence"
+      ],
+      [
+        "Cryotherapy",
+        "Liquid Nitrogen"
+      ],
+      [
+        "American Joint Committee On Cancer",
+        "FIGO Staging System"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Nonfunctioning Tumor"
+      ],
+      [
+        "Intrahepatic Bile Duct Cancer",
+        "Tumor"
+      ],
+      [
+        "Digestive System",
+        "Esophagus"
+      ],
+      [
+        "Mouth Cancer",
+        "Tongue"
+      ],
+      [
+        "Biomarker Testing",
+        "Testing"
+      ],
+      [
+        "Esophagus",
+        "Tunica Adventitia"
+      ],
+      [
+        "Floor Of The Mouth",
+        "Mouth Cancer"
+      ],
+      [
+        "Radiation Oncologist",
+        "Radiation Therapy"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Treatment By Risk And Recurrence"
+      ],
+      [
+        "Epithelium",
+        "Ovaries"
+      ],
+      [
+        "Bronchus",
+        "Lungs"
+      ],
+      [
+        "Health Care Provider",
+        "Medical History And Physical Exam"
+      ],
+      [
+        "Carboplatin",
+        "Chemotherapy"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "Philadelphia Chromosome (Ph)"
+      ],
+      [
+        "Lymphatic System",
+        "Tonsils"
+      ],
+      [
+        "Early-Stage Cancer",
+        "Esophageal Cancer"
+      ],
+      [
+        "BRCA Mutation",
+        "Homologous Recombination Deficiency"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Li-Fraumeni Syndrome"
+      ],
+      [
+        "Antimetabolites",
+        "Fludarabine"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Chemotherapy",
+        "Doctor"
+      ],
+      [
+        "Blood Stem Cell",
+        "Platelet (PLT)"
+      ],
+      [
+        "Actinic Keratosis",
+        "Cutaneous Squamous Cell Carcinoma (CSCC)"
+      ],
+      [
+        "NTRK Gene Fusion",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Non-Healing Ulcer",
+        "Radiation Therapy"
+      ],
+      [
+        "Actinic Keratoses",
+        "Bowens Lesion"
+      ],
+      [
+        "Lymphocytes",
+        "Non-Hodgkin Lymphoma"
+      ],
+      [
+        "Cardiovascular Disease",
+        "Surgical Menopause"
+      ],
+      [
+        "Lymph Nodes",
+        "Surgery"
+      ],
+      [
+        "Head And Neck Cancers",
+        "Smoking"
+      ],
+      [
+        "5-Fluorouracil",
+        "Topical Therapies"
+      ],
+      [
+        "Chemotherapy",
+        "Stage 2, 3, and 4"
+      ],
+      [
+        "Blood Tests",
+        "Treatment Plan"
+      ],
+      [
+        "PCR Products",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "Arsenic",
+        "Environmental Toxins"
+      ],
+      [
+        "Centroblast",
+        "Germinal Center"
+      ],
+      [
+        "Chemopreventive Agents",
+        "Clinical Trial"
+      ],
+      [
+        "MyChart",
+        "Online Patient Portals"
+      ],
+      [
+        "Debulking Surgery",
+        "Surgery"
+      ],
+      [
+        "Genetic Syndromes",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Stage 1",
+        "Stage 1A"
+      ],
+      [
+        "Operations",
+        "Thoracic Surgeon"
+      ],
+      [
+        "Blood Tests",
+        "Testing"
+      ],
+      [
+        "NCCN Experts",
+        "Skin Exams"
+      ],
+      [
+        "CA 19-9",
+        "Tumor Markers"
+      ],
+      [
+        "SCLC",
+        "Second-Hand Smoke"
+      ],
+      [
+        "AML",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Adrenal Glands",
+        "Neuroblastoma"
+      ],
+      [
+        "Bone Marrow Aspirate And Biopsy",
+        "Care Team"
+      ],
+      [
+        "Testing for Throat Cancer",
+        "p16 (HPV) Testing"
+      ],
+      [
+        "Family History",
+        "General Health Tests"
+      ],
+      [
+        "Age",
+        "Basal Cell Skin Cancer"
+      ],
+      [
+        "Brain MRI Scan",
+        "Contrast Material"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Bone Marrow Tests"
+      ],
+      [
+        "PARP Inhibitor",
+        "Stage 2 Ovarian Cancer"
+      ],
+      [
+        "Hypodermis",
+        "Skin"
+      ],
+      [
+        "Care Team",
+        "Scans"
+      ],
+      [
+        "Clinical Trial",
+        "Standard Treatment"
+      ],
+      [
+        "Imaging Tests",
+        "Testing"
+      ],
+      [
+        "Care Team",
+        "Pulmonologist"
+      ],
+      [
+        "Adrenal Glands",
+        "Endocrine System"
+      ],
+      [
+        "Maintenance Therapy",
+        "Rucaparib"
+      ],
+      [
+        "Decitabine",
+        "Hypomethylating Agents"
+      ],
+      [
+        "Care Team",
+        "Support System"
+      ],
+      [
+        "Biomarker Testing",
+        "Molecular Testing"
+      ],
+      [
+        "Fallopian Tubes",
+        "Ovarian Cancer"
+      ],
+      [
+        "Oral Mucosa",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "T2 Tumor",
+        "TNM Staging"
+      ],
+      [
+        "Health Care Provider",
+        "Lung Cancer Screening"
+      ],
+      [
+        "Chemotherapy",
+        "Side Effects"
+      ],
+      [
+        "Doctor",
+        "Pelvic And Rectovaginal Exam"
+      ],
+      [
+        "Ovarian Cancer",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Blasts",
+        "Granulocytes"
+      ],
+      [
+        "Biopsy",
+        "Imaging Tests"
+      ],
+      [
+        "Assessment Team",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Hereditary Paraganglioma-Pheochromocytoma Syndrome",
+        "NCCN Guidelines For Patients: Kidney Cancer"
+      ],
+      [
+        "Fair Skin",
+        "Melanin"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 1C"
+      ],
+      [
+        "Head And Neck Exam",
+        "Physical Exam"
+      ],
+      [
+        "Curettage And Electrodesiccation",
+        "Shave Excision"
+      ],
+      [
+        "Lung",
+        "Metastatic Cancer"
+      ],
+      [
+        "Blood Stem Cells",
+        "Differentiation"
+      ],
+      [
+        "Immune Checkpoint Inhibitors",
+        "NCCN"
+      ],
+      [
+        "Care Team",
+        "Gynecologic Oncologist"
+      ],
+      [
+        "Laser",
+        "Resurfacing Techniques"
+      ],
+      [
+        "Risk Assessment",
+        "Very High-Risk CSCC"
+      ],
+      [
+        "Blood Stem Cells",
+        "Bone Marrow"
+      ],
+      [
+        "Guide SCLC",
+        "SCLC"
+      ],
+      [
+        "T4b Tumor",
+        "TNM Staging"
+      ],
+      [
+        "Chest CT",
+        "Testing"
+      ],
+      [
+        "CT Scan",
+        "Lymph Nodes"
+      ],
+      [
+        "Asia",
+        "Esophageal Squamous Cell Carcinoma"
+      ],
+      [
+        "Lung Nodules",
+        "Pulmonologist"
+      ],
+      [
+        "Medical History",
+        "Medicines"
+      ],
+      [
+        "Esophageal Cancer",
+        "Locoregional Cancer"
+      ],
+      [
+        "Radiation Therapy",
+        "Xeroderma Pigmentosum"
+      ],
+      [
+        "HLA Typing",
+        "Human Leukocyte Antigen"
+      ],
+      [
+        "AML",
+        "Care Team"
+      ],
+      [
+        "Female Reproductive System",
+        "Ovaries"
+      ],
+      [
+        "Omentum",
+        "Ovarian Cancer"
+      ],
+      [
+        "Head And Neck Surgeon",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Follicular Lymphoma Grade 3A",
+        "WHO5"
+      ],
+      [
+        "Marjolins Ulcer",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Cancer Cells",
+        "PET Scan"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Coagulopathy"
+      ],
+      [
+        "Basal Cell Nevus Syndrome",
+        "Radiation Therapy"
+      ],
+      [
+        "Nutrition, Speech, And Swallowing Evaluation",
+        "Testing"
+      ],
+      [
+        "Eastern Cooperative Oncology Group Score",
+        "Performance Status"
+      ],
+      [
+        "BRCA Genes",
+        "Homologous Recombination Deficiency"
+      ],
+      [
+        "Anti-Tumor Immune Response",
+        "Programmed Death Ligand 1"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Immune System"
+      ],
+      [
+        "Online Patient Portals",
+        "Testing"
+      ],
+      [
+        "Nicotine Withdrawal",
+        "Vaping"
+      ],
+      [
+        "Side Effects",
+        "Systemic Therapies"
+      ],
+      [
+        "Bile Ducts",
+        "Liver"
+      ],
+      [
+        "Molecular Testing",
+        "Mouth Cancers"
+      ],
+      [
+        "Lung Cancer",
+        "Risk Factor"
+      ],
+      [
+        "Blood Tests",
+        "Liver Function Tests"
+      ],
+      [
+        "Chapter 6: BPDCN",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Ultraviolet (UV) Radiation"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Non-Hodgkin Lymphomas"
+      ],
+      [
+        "Blood",
+        "Red Blood Cells"
+      ],
+      [
+        "CT Scan",
+        "PET/MRI"
+      ],
+      [
+        "Blasts",
+        "Chronic Myeloid Leukemia (CML)"
+      ],
+      [
+        "American Joint Committee On Cancer",
+        "Cancer Staging"
+      ],
+      [
+        "B Lymphocytes",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Paraneoplastic Syndromes",
+        "SCLC"
+      ],
+      [
+        "Lung Cancers",
+        "Vaping"
+      ],
+      [
+        "Guide 1",
+        "Medical History And Physical Exam"
+      ],
+      [
+        "Imaging Tests",
+        "Medical Binder"
+      ],
+      [
+        "Endoscopy",
+        "Esophageal Cancer"
+      ],
+      [
+        "Curettage And Electrodesiccation",
+        "Low-Risk CSCC"
+      ],
+      [
+        "Blood Stem Cell",
+        "White Blood Cell (WBC)"
+      ],
+      [
+        "Patient",
+        "Patient Portals"
+      ],
+      [
+        "FDG-PET/CT",
+        "Testing"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Chemotherapy"
+      ],
+      [
+        "Primary Tumor",
+        "Throat Cancer"
+      ],
+      [
+        "Computed Tomography (CT) Scan",
+        "Contrast Dye"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Familial Adenomatous Polyposis"
+      ],
+      [
+        "CT With Contrast",
+        "Testing"
+      ],
+      [
+        "Platinum-Based Chemotherapy",
+        "Radiation Therapy"
+      ],
+      [
+        "Pathologist",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Dentist",
+        "Regular Dental Cleanings"
+      ],
+      [
+        "Care Team",
+        "Pathologist"
+      ],
+      [
+        "Antimetabolites",
+        "Cladribine"
+      ],
+      [
+        "Blood Chemistry Profile",
+        "Blood Tests"
+      ],
+      [
+        "Cytogenetics",
+        "Karyotype"
+      ],
+      [
+        "Pap Test",
+        "Pelvic Exam"
+      ],
+      [
+        "Chemotherapy",
+        "Intravenous Administration"
+      ],
+      [
+        "Biopsy",
+        "Treatment Plan"
+      ],
+      [
+        "Biomarker Testing",
+        "RET Mutations"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "Philadelphia (Ph) Chromosome"
+      ],
+      [
+        "Cancer Grade",
+        "Pathologist"
+      ],
+      [
+        "Blood Clotting Tests",
+        "Coagulation Factors"
+      ],
+      [
+        "B Symptoms",
+        "Follicular Lymphoma"
+      ],
+      [
+        "PDEMA",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Small Cell Lung Cancer",
+        "Smoking Cigarettes"
+      ],
+      [
+        "Carcinoma In Situ",
+        "TNM Staging"
+      ],
+      [
+        "Biopsy",
+        "Testing"
+      ],
+      [
+        "International Consensus Classification",
+        "This Book"
+      ],
+      [
+        "Dermis",
+        "Skin"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Chapter 3: Types Of Treatment"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Immunotherapy",
+        "Programmed Death Ligand 1 Inhibitors"
+      ],
+      [
+        "Imaging Tests",
+        "Radiologist"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Bone Marrow Aspirate"
+      ],
+      [
+        "Pembrolizumab",
+        "Programmed Death Ligand 1 Inhibitors"
+      ],
+      [
+        "Diagnosis",
+        "Treatment Plan"
+      ],
+      [
+        "AIDS",
+        "Weakened Immune System"
+      ],
+      [
+        "MRI With And Without Contrast",
+        "Testing"
+      ],
+      [
+        "Bone Marrow Aspirate",
+        "Bone Marrow Biopsy"
+      ],
+      [
+        "SCLC",
+        "Smoking Cigarettes"
+      ],
+      [
+        "NCCN Guidelines For Patients: Adolescent And Young Adult Cancer",
+        "NCCN Patient Guides For Cancer App"
+      ],
+      [
+        "Stage 4",
+        "Stage 4B"
+      ],
+      [
+        "Echocardiogram",
+        "Heart"
+      ],
+      [
+        "Lymph Nodes",
+        "Surgical Staging"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 2A"
+      ],
+      [
+        "Mohs Surgeon",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Core Needle Biopsy",
+        "Lymph Node"
+      ],
+      [
+        "Blood Tests",
+        "Doctor"
+      ],
+      [
+        "CT Scan",
+        "Ovarian Cancer"
+      ],
+      [
+        "Chemotherapy",
+        "Paclitaxel"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Germinal Center"
+      ],
+      [
+        "Environmental Toxins",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Epithelium",
+        "High-Grade Endometrioid Carcinoma"
+      ],
+      [
+        "NCCN Foundation",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "CD33",
+        "Gemtuzumab Ozogamicin"
+      ],
+      [
+        "Pelvic Exam",
+        "Rectovaginal Exam"
+      ],
+      [
+        "Mutation",
+        "Next-Generation Sequencing"
+      ],
+      [
+        "Airways",
+        "Trachea"
+      ],
+      [
+        "Maintenance Therapy",
+        "PARP Inhibitors"
+      ],
+      [
+        "Ovarian Cancer",
+        "Surgical Menopause"
+      ],
+      [
+        "CT Scan",
+        "Oral Contrast"
+      ],
+      [
+        "Recurrent Ovarian Cancer",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Adenoma",
+        "Benign Tumor"
+      ],
+      [
+        "Corticosteroid Use",
+        "Weakened Immune System"
+      ],
+      [
+        "Cetuximab",
+        "Erbitux"
+      ],
+      [
+        "Oropharynx",
+        "Throat"
+      ],
+      [
+        "Cancer",
+        "Stage 4 Cancer"
+      ],
+      [
+        "Fertility Preservation",
+        "Fertility Specialist"
+      ],
+      [
+        "Hereditary Ovarian Cancer",
+        "Lynch Syndrome"
+      ],
+      [
+        "Chemopreventive Agents",
+        "Lung Cancer"
+      ],
+      [
+        "Cryotherapy",
+        "Superficial Treatments"
+      ],
+      [
+        "Leukemia",
+        "Lumbar Puncture"
+      ],
+      [
+        "Dermis",
+        "Epidermis"
+      ],
+      [
+        "CT Scan",
+        "Contrast"
+      ],
+      [
+        "Bronchi",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Excisional Lymph Node Biopsy",
+        "Hodgkin Lymphoma"
+      ],
+      [
+        "Head And Neck Tumors",
+        "Surgery"
+      ],
+      [
+        "Bevacizumab",
+        "Platinum-Resistant Cancer"
+      ],
+      [
+        "NCCN",
+        "NSCLC"
+      ],
+      [
+        "AML",
+        "Blasts"
+      ],
+      [
+        "Metastatic Squamous Cell Skin Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Keratinocyte Carcinoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Specific Therapies",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "Chemotherapy",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Catheter",
+        "Systemic Therapy"
+      ],
+      [
+        "Clinical Trial",
+        "Phase 2 Trial"
+      ],
+      [
+        "CT Scan",
+        "Ultrasound"
+      ],
+      [
+        "Bone Marrow",
+        "Lymphatic System"
+      ],
+      [
+        "Endometrial Biopsy",
+        "Pelvic Exam"
+      ],
+      [
+        "AML Biomarker And Genetic Tests",
+        "Prognosis"
+      ],
+      [
+        "Cytology",
+        "Pathologist"
+      ],
+      [
+        "Endoscopy With Examination Under Anesthesia",
+        "Testing"
+      ],
+      [
+        "Genetic Testing",
+        "Oncology Care Team"
+      ],
+      [
+        "Classic Hodgkin Lymphoma",
+        "Hodgkin Lymphoma"
+      ],
+      [
+        "Lungs",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Biomarkers",
+        "Recurrence"
+      ],
+      [
+        "Ovarian Cancer",
+        "Testing"
+      ],
+      [
+        "Lung Cancer",
+        "Tobacco Smoke"
+      ],
+      [
+        "Classic Hodgkin Lymphoma",
+        "Reed-Sternberg Cells"
+      ],
+      [
+        "Carcinomas",
+        "Lung Cancer"
+      ],
+      [
+        "Lymph",
+        "Tumor"
+      ],
+      [
+        "Contrast",
+        "MRI Scan"
+      ],
+      [
+        "Endocrine Tests",
+        "Radiation Therapy"
+      ],
+      [
+        "Lung",
+        "Metastasis"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Follicular Lymphoma Grade 3B"
+      ],
+      [
+        "Clinical Trial",
+        "Phase 1 Trial"
+      ],
+      [
+        "Geneticist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Genetic Testing",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "Vaping",
+        "Wound Healing"
+      ],
+      [
+        "Biomarker Testing",
+        "Microsatellite Instability"
+      ],
+      [
+        "NCCN",
+        "NCCN Patient Guides for Cancer App"
+      ],
+      [
+        "Immune Protein",
+        "Programmed Death Ligand 1"
+      ],
+      [
+        "Indoor Tanning",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Doctor",
+        "Smoking"
+      ],
+      [
+        "Comprehensive Metabolic Panel",
+        "Guide 1"
+      ],
+      [
+        "NCCN",
+        "NCCN Patient Guides For Cancer App"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 1A"
+      ],
+      [
+        "Deep Vein Thrombosis",
+        "Ovarian Cancer Surgery"
+      ],
+      [
+        "Biopsy",
+        "Surgery"
+      ],
+      [
+        "Intravenous Administration",
+        "Port"
+      ],
+      [
+        "Epidermis",
+        "Skin"
+      ],
+      [
+        "Mohs Surgery",
+        "PDEMA"
+      ],
+      [
+        "FIGO Stages",
+        "Ovarian Cancer"
+      ],
+      [
+        "NCCN Guidelines For Patients",
+        "National Comprehensive Cancer Network"
+      ],
+      [
+        "Nutritional And Digestive Tract Health",
+        "Registered Dietitian Or Nutritionist"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Non-Hodgkin Lymphoma"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Pheochromocytoma"
+      ],
+      [
+        "MRI",
+        "MRI Machine"
+      ],
+      [
+        "Lips",
+        "Mouth Cancer"
+      ],
+      [
+        "Biopsy",
+        "Metastasis"
+      ],
+      [
+        "Antimetabolites",
+        "Clofarabine"
+      ],
+      [
+        "Second-Hand Smoke",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Intrauterine Devices",
+        "Preventing Pregnancy"
+      ],
+      [
+        "Imaging Tests",
+        "Leukemia"
+      ],
+      [
+        "Estrogen",
+        "Surgical Menopause"
+      ],
+      [
+        "Lamina Propria",
+        "Mucosa"
+      ],
+      [
+        "Mirvetuximab Soravtansine-Gynx",
+        "Platinum-Resistant Cancer"
+      ],
+      [
+        "Cetuximab",
+        "Epidermal Growth Factor Receptor"
+      ],
+      [
+        "Complete Blood Count And Differential",
+        "Platelets"
+      ],
+      [
+        "Asbestos",
+        "Lung Cancer"
+      ],
+      [
+        "PET Scan",
+        "PET/CT Scan"
+      ],
+      [
+        "Gums",
+        "Head And Neck Cancer"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Myeloid Blasts"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Tumor Grade"
+      ],
+      [
+        "Radiation Therapy",
+        "Second Cancer"
+      ],
+      [
+        "Epithelium",
+        "Less Common Ovarian Cancers (LCOCs)"
+      ],
+      [
+        "Pregnancy Test",
+        "Preventing Pregnancy"
+      ],
+      [
+        "Brain",
+        "Metastatic Cancer"
+      ],
+      [
+        "Lung Carcinoma",
+        "Non-Small Cell Lung Cancer (NSCLC)"
+      ],
+      [
+        "Immunophenotyping",
+        "White Blood Cell Antigens"
+      ],
+      [
+        "Immune Cells",
+        "Programmed Death Ligand 1"
+      ],
+      [
+        "Folate Receptor Alpha Expression",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Centroblast",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Lung Cancers",
+        "Smoking"
+      ],
+      [
+        "DNA",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "Biomarker Testing",
+        "Metastatic Cancers"
+      ],
+      [
+        "Surgery",
+        "Treatment Team"
+      ],
+      [
+        "Digestive System",
+        "Small Intestine"
+      ],
+      [
+        "Somatostatin",
+        "Somatostatin Receptor"
+      ],
+      [
+        "Maintenance Therapy",
+        "Platinum-Sensitive Cancer"
+      ],
+      [
+        "Cancer Stage",
+        "Metastatic Cancer"
+      ],
+      [
+        "Test Results",
+        "Treatment Planning"
+      ],
+      [
+        "Screening For Hepatitis B",
+        "Testing"
+      ],
+      [
+        "Fallopian Tubes",
+        "Ovaries"
+      ],
+      [
+        "Maintenance Therapy",
+        "Niraparib"
+      ],
+      [
+        "Patient",
+        "Support Groups"
+      ],
+      [
+        "FDG-PET/CT",
+        "PET Scan"
+      ],
+      [
+        "MRI",
+        "Sedative"
+      ],
+      [
+        "Adenoma",
+        "Nonfunctioning Tumor"
+      ],
+      [
+        "Coagulation Factors",
+        "Liver"
+      ],
+      [
+        "Adrenal Tumor",
+        "Blood Tests"
+      ],
+      [
+        "Lactate Dehydrogenase",
+        "Tumor Markers"
+      ],
+      [
+        "Lymph Nodes",
+        "Stage 1 Cancer"
+      ],
+      [
+        "Microsatellite Instability",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Platinum-Sensitive Cancer",
+        "Secondary Cytoreductive Surgery"
+      ],
+      [
+        "Scope",
+        "Upper Endoscopy"
+      ],
+      [
+        "Chemotherapy",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "Anthracyclines",
+        "Idarubicin"
+      ],
+      [
+        "Ovarian Cancer Surgery",
+        "Uterus"
+      ],
+      [
+        "Head And Neck Cancers",
+        "Vaping"
+      ],
+      [
+        "Dermabrasion",
+        "Resurfacing Techniques"
+      ],
+      [
+        "Rubraca",
+        "Rucaparib"
+      ],
+      [
+        "Calcipotriene",
+        "Vitamin D"
+      ],
+      [
+        "Lactate Dehydrogenase",
+        "Lactate Dehydrogenase Test"
+      ],
+      [
+        "Systemic Therapy",
+        "Targeted Therapy"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Jaw Teeth Gums"
+      ],
+      [
+        "Actinic Keratosis",
+        "Tirbanibulin"
+      ],
+      [
+        "Smoking",
+        "Surgery"
+      ],
+      [
+        "Cisplatin",
+        "Hypersensitivity Reactions"
+      ],
+      [
+        "Clinical Trial",
+        "Patient"
+      ],
+      [
+        "Cancer Stage",
+        "Treatment Plan"
+      ],
+      [
+        "Radiation Therapy",
+        "Scleroderma"
+      ],
+      [
+        "Core Needle Biopsy",
+        "Hodgkin Lymphoma"
+      ],
+      [
+        "Insertion",
+        "Mutation"
+      ],
+      [
+        "Allergic Reaction",
+        "Contrast Material"
+      ],
+      [
+        "Carcinoembryonic Antigen",
+        "Tumor Markers"
+      ],
+      [
+        "Transabdominal Ultrasound",
+        "Ultrasound"
+      ],
+      [
+        "Cancer Stage",
+        "Testing"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphatic System"
+      ],
+      [
+        "AML",
+        "APL"
+      ],
+      [
+        "Bronchioles",
+        "Lungs"
+      ],
+      [
+        "NCCN Guidelines For Patients",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "NCCN.org/patientguidelines",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Genetic Testing",
+        "Somatic Tumor Mutations"
+      ],
+      [
+        "Skin Cancer",
+        "Tanning Beds"
+      ],
+      [
+        "Clinical Trial",
+        "U.S. National Library of Medicine (NLM)"
+      ],
+      [
+        "Electrocardiogram",
+        "Prolonged Corrected QT Interval"
+      ],
+      [
+        "Cancer Antigen-125",
+        "Tumor Markers"
+      ],
+      [
+        "Protons",
+        "Radiation Therapy"
+      ],
+      [
+        "Esophageal Cancer",
+        "Esophageal Squamous Cell Carcinoma"
+      ],
+      [
+        "T3 Tumor",
+        "TNM Staging"
+      ],
+      [
+        "CA-125 Level",
+        "Oncologist"
+      ],
+      [
+        "Chromosomes",
+        "Karyotype"
+      ],
+      [
+        "BRCA Genes",
+        "Biomarker Testing"
+      ],
+      [
+        "B12",
+        "B12 And Folic Acid Test"
+      ],
+      [
+        "Paclitaxel",
+        "Peripheral Neuropathy"
+      ],
+      [
+        "Care Team",
+        "Sedative"
+      ],
+      [
+        "Local Anesthetic",
+        "Skin Biopsy"
+      ],
+      [
+        "AML",
+        "Complete Blood Count"
+      ],
+      [
+        "Care Team",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Leukemia Predisposition Syndromes",
+        "Skin Punch Biopsy"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "Chronic Myeloid Leukemia (CML)"
+      ],
+      [
+        "Benign Tumor",
+        "Pheochromocytoma"
+      ],
+      [
+        "Fertility",
+        "Treatment"
+      ],
+      [
+        "BRCA2 Gene",
+        "Genetic Testing"
+      ],
+      [
+        "Nonkeratinized Squamous Epithelium",
+        "Oral Mucosa"
+      ],
+      [
+        "Adrenal Glands",
+        "Adrenal Tumors"
+      ],
+      [
+        "Dermatologic Surgeon",
+        "Mohs Surgery"
+      ],
+      [
+        "DNA Mutations",
+        "Specific Therapies"
+      ],
+      [
+        "BRCA Genes",
+        "Somatic Mutations"
+      ],
+      [
+        "Immune-Related Adverse Events",
+        "Immunotherapy"
+      ],
+      [
+        "Clinical Trial",
+        "Phase 4 Trial"
+      ],
+      [
+        "Paper Gown",
+        "Skin Exams"
+      ],
+      [
+        "Metastatic Cancers",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Skin Exam",
+        "Very High-Risk Local CSCC"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Acute Promyelocytic Leukemia"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Local Squamous Cell Skin Cancer"
+      ],
+      [
+        "Chemotherapy",
+        "Diagnostic Laparoscopy"
+      ],
+      [
+        "Donor Eggs",
+        "In Vitro Fertilization (IVF)"
+      ],
+      [
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm",
+        "Lymph Node Biopsy"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Sun"
+      ],
+      [
+        "FIGO Staging System",
+        "Pathologic Stage"
+      ],
+      [
+        "FDG-PET Scan",
+        "Neuroendocrine Tumor"
+      ],
+      [
+        "Alveoli",
+        "Lungs"
+      ],
+      [
+        "Regional Squamous Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "Bronchioles",
+        "Respiratory System"
+      ],
+      [
+        "Actinic Keratoses",
+        "Superficial Treatments"
+      ],
+      [
+        "Oncology Nurse",
+        "Systemic Therapy"
+      ],
+      [
+        "Arms",
+        "Basal Cell Skin Cancer"
+      ],
+      [
+        "FLT3",
+        "Midostaurin"
+      ],
+      [
+        "Extranodal Extension",
+        "Regional Lymph Node"
+      ],
+      [
+        "Gene",
+        "Mutation"
+      ],
+      [
+        "AML",
+        "Complete Blood Count And Differential"
+      ],
+      [
+        "High-Risk Patients",
+        "Skin Exams"
+      ],
+      [
+        "High-Risk CSCC",
+        "Local Recurrence"
+      ],
+      [
+        "Hormone Replacement Therapy",
+        "Surgical Menopause"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Recurrence"
+      ],
+      [
+        "Biopsy",
+        "Tissue Fluid"
+      ],
+      [
+        "Brain MRI Scan",
+        "Claustrophobia"
+      ],
+      [
+        "Patient",
+        "Primary Care Physician"
+      ],
+      [
+        "Chemotherapy",
+        "Stage 1"
+      ],
+      [
+        "Fallopian Tubes",
+        "Ovarian Cancer Surgery"
+      ],
+      [
+        "PARP Inhibitors",
+        "Rucaparib"
+      ],
+      [
+        "Complete Blood Count And Differential",
+        "White Blood Cells"
+      ],
+      [
+        "Gastrointestinal Tract",
+        "Imaging Test"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Red Or Blond Hair"
+      ],
+      [
+        "Chemotherapy",
+        "Standard Of Care"
+      ],
+      [
+        "Intravenous Chemotherapy",
+        "Port"
+      ],
+      [
+        "Low-Risk CSCC",
+        "Risk Assessment"
+      ],
+      [
+        "CML Specialist",
+        "Patient Advocacy"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic Therapies"
+      ],
+      [
+        "Electrons",
+        "External Beam Radiation Therapy"
+      ],
+      [
+        "Gums",
+        "Mouth Cancer"
+      ],
+      [
+        "Echocardiogram",
+        "Ejection Fraction"
+      ],
+      [
+        "Fertility-Sparing Surgery",
+        "Surgery"
+      ],
+      [
+        "Calcipotriene",
+        "Sorilux"
+      ],
+      [
+        "Combined Positive Score",
+        "PD-L1 Testing"
+      ],
+      [
+        "Bevacizumab (Avastin)",
+        "Chemotherapy"
+      ],
+      [
+        "CT Scan",
+        "CT Scanner"
+      ],
+      [
+        "Help To Quit Smoking",
+        "Testing"
+      ],
+      [
+        "Alveoli",
+        "Respiratory System"
+      ],
+      [
+        "Alpha-Fetoprotein",
+        "Tumor Markers"
+      ],
+      [
+        "Oropharynx",
+        "Throat Cancer"
+      ],
+      [
+        "FDG-PET/CT Scan",
+        "PET Scan"
+      ],
+      [
+        "Immunotherapy",
+        "NCCN Guidelines"
+      ],
+      [
+        "Del(5q)",
+        "Deletion"
+      ],
+      [
+        "Stage 1",
+        "Stage 1B"
+      ],
+      [
+        "Cancer Treatment",
+        "Smoking"
+      ],
+      [
+        "Lamina Propria",
+        "Oral Mucosa"
+      ],
+      [
+        "Clinical Stage",
+        "Imaging Tests"
+      ],
+      [
+        "Cancer Treatment",
+        "Contraception"
+      ],
+      [
+        "Fertility",
+        "Head And Neck Cancer Treatment"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Teeth"
+      ],
+      [
+        "5-Fluorouracil",
+        "Calcipotriene"
+      ],
+      [
+        "Distant Metastasis",
+        "TNM System"
+      ],
+      [
+        "Biomarker Testing",
+        "Ovarian Cancer"
+      ],
+      [
+        "Oncology Nurse",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Non-Small Cell Lung Cancer",
+        "Sarcomatoid Carcinoma"
+      ],
+      [
+        "General Health Tests",
+        "Tobacco And Alcohol Use History"
+      ],
+      [
+        "Biomarkers",
+        "Immunotherapy"
+      ],
+      [
+        "Cemiplimab",
+        "Programmed Death Ligand 1 Inhibitors"
+      ],
+      [
+        "Imiquimod",
+        "Topical Therapies"
+      ],
+      [
+        "Avastin",
+        "Bevacizumab"
+      ],
+      [
+        "Fertility Preservation",
+        "NCCN"
+      ],
+      [
+        "Chromosome",
+        "DNA"
+      ],
+      [
+        "Digestive System",
+        "Liver"
+      ],
+      [
+        "Core Binding Factor",
+        "Gemtuzumab Ozogamicin"
+      ],
+      [
+        "CSCC",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Basal Cells",
+        "Epidermis"
+      ],
+      [
+        "Lymph Node Biopsy",
+        "Ultrasound"
+      ],
+      [
+        "FDG-PET Scan",
+        "PET Scan"
+      ],
+      [
+        "Lymphatic System",
+        "Spleen"
+      ],
+      [
+        "Care Team",
+        "Multidisciplinary Team"
+      ],
+      [
+        "Contrast",
+        "Diphenhydramine (Benadryl)"
+      ],
+      [
+        "Health Care Provider",
+        "Patient"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "History Of Skin Cancer"
+      ],
+      [
+        "Neuropathy",
+        "Side Effects"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Marjolins Ulcer"
+      ],
+      [
+        "Centrocyte",
+        "Germinal Center"
+      ],
+      [
+        "Care Team",
+        "Smoking"
+      ],
+      [
+        "Oncologist",
+        "Survivorship"
+      ],
+      [
+        "Chemotherapy",
+        "Myelodysplastic Syndrome"
+      ],
+      [
+        "Large Cell Carcinoma",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "High-Risk CSCC",
+        "Mohs Surgery"
+      ],
+      [
+        "Chapter 7: Other Resources",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Cancerous Tumor",
+        "Pheochromocytoma"
+      ],
+      [
+        "Chapter 4: AML",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "BRCA1 Gene",
+        "Hereditary Ovarian Cancer"
+      ],
+      [
+        "Ear Nose And Throat Doctor",
+        "Tongue"
+      ],
+      [
+        "Care Team",
+        "Medical History"
+      ],
+      [
+        "MSI-H/dMMR Mutation",
+        "Microsatellite Instability-High"
+      ],
+      [
+        "Lung Cancer",
+        "Radon"
+      ],
+      [
+        "Biomarker Testing",
+        "Cancer"
+      ],
+      [
+        "FLT3",
+        "Gilteritinib"
+      ],
+      [
+        "Regional CSCC",
+        "Surgery"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Testing"
+      ],
+      [
+        "Hemoglobin",
+        "Iron"
+      ],
+      [
+        "Biopsy",
+        "Care Team"
+      ],
+      [
+        "Carcinogens",
+        "Radon"
+      ],
+      [
+        "AML Mutation Testing",
+        "Polymerase Chain Reaction"
+      ],
+      [
+        "Radiation Therapy",
+        "Stereotactic Body Radiotherapy"
+      ],
+      [
+        "Surgery",
+        "Surgical Staging"
+      ],
+      [
+        "Chemotherapy",
+        "Intravenous Chemotherapy"
+      ],
+      [
+        "Dermis",
+        "Hypodermis"
+      ],
+      [
+        "Blood Stem Cell",
+        "Bone Marrow"
+      ],
+      [
+        "Throat Cancer",
+        "Treatment Planning"
+      ],
+      [
+        "Lung Tumor",
+        "Smoking Cigarettes"
+      ],
+      [
+        "Platinum-Based Chemotherapy",
+        "Taxane"
+      ],
+      [
+        "Dentist",
+        "Patient"
+      ],
+      [
+        "Care Team",
+        "Tracer"
+      ],
+      [
+        "Lymph Nodes",
+        "Regional CSCC"
+      ],
+      [
+        "Basal Cell Carcinoma (BCC)",
+        "Basal Cell Skin Cancer"
+      ],
+      [
+        "5-FU",
+        "5-Fluorouracil"
+      ],
+      [
+        "Absolute Neutrophil Count",
+        "Complete Blood Count And Differential"
+      ],
+      [
+        "Keytruda",
+        "Pembrolizumab"
+      ],
+      [
+        "Cancer Antigen-125",
+        "Diverticulitis"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Functioning Tumor"
+      ],
+      [
+        "Platinum-Based Chemotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "CSCC",
+        "Curettage And Electrodesiccation"
+      ],
+      [
+        "Epidermis",
+        "Melanocytes"
+      ],
+      [
+        "Classic Follicular Lymphoma",
+        "Follicular Lymphoma"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 4"
+      ],
+      [
+        "Genetic Tests",
+        "Testing"
+      ],
+      [
+        "Distant Tumors",
+        "Radiation Therapy"
+      ],
+      [
+        "Esophagus",
+        "Submucosa"
+      ],
+      [
+        "Excision Biopsy",
+        "Skin Punch Biopsy"
+      ],
+      [
+        "Brachytherapy",
+        "Radiation Therapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Pathologic Stage"
+      ],
+      [
+        "Shave Biopsy",
+        "Skin Punch Biopsy"
+      ],
+      [
+        "Stage 4 Cancer",
+        "TNM Staging"
+      ],
+      [
+        "Contact List",
+        "Patient"
+      ],
+      [
+        "Bronchi",
+        "Bronchioles"
+      ],
+      [
+        "Small Cell Carcinoma",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Comprehensive Metabolic Panel",
+        "Liver Function Tests"
+      ],
+      [
+        "Anatomic Stage",
+        "Prognostic Stage"
+      ],
+      [
+        "Fine-Needle Aspiration",
+        "Regional CSCC"
+      ],
+      [
+        "Transvaginal Ultrasound",
+        "Ultrasound"
+      ],
+      [
+        "Braces",
+        "Dental Procedures"
+      ],
+      [
+        "Blood Tests",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Lymphatic System",
+        "Thymus"
+      ],
+      [
+        "NCCN Patient Guides For Cancer App",
+        "National Comprehensive Cancer Network"
+      ],
+      [
+        "Adrenal Glands",
+        "Adrenocortical Carcinoma"
+      ],
+      [
+        "Medical Binder",
+        "Online Patient Portals"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Medical And Family History"
+      ],
+      [
+        "Health Care Provider",
+        "Radiologist"
+      ],
+      [
+        "Pathologist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Cancer",
+        "Skin Exams"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "Patient Advocacy"
+      ],
+      [
+        "Imaging Studies",
+        "Test Results"
+      ],
+      [
+        "Clinical Trial",
+        "U.S. Food and Drug Administration"
+      ],
+      [
+        "Dentist",
+        "Head And Neck Cancer"
+      ],
+      [
+        "Esophageal Cancer",
+        "Metastatic Cancer"
+      ],
+      [
+        "Adrenal Tumor",
+        "Biochemical Tests"
+      ],
+      [
+        "Chemotherapy",
+        "Neoadjuvant Therapy"
+      ],
+      [
+        "Cancerous Tumor",
+        "Neuroblastoma"
+      ],
+      [
+        "Genetic Testing",
+        "Ovarian Cancer"
+      ],
+      [
+        "BCR::ABL1 Gene",
+        "Chromosome 9"
+      ],
+      [
+        "Dental Procedures",
+        "Implants"
+      ],
+      [
+        "Lymphocyte",
+        "Non-Hodgkin Lymphoma"
+      ],
+      [
+        "Fertility-Sparing Surgery",
+        "Unilateral Salpingooophorectomy (USO)"
+      ],
+      [
+        "Immunosuppressants",
+        "Weakened Immune System"
+      ],
+      [
+        "Caregiver",
+        "Patient"
+      ],
+      [
+        "NCCN Patient Guides For Cancer App",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Bilateral Salpingooophorectomy (BSO)",
+        "Surgery"
+      ],
+      [
+        "Inflammation",
+        "PET Scan"
+      ],
+      [
+        "Anatomic Stage",
+        "TNM System"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 3C"
+      ],
+      [
+        "Body",
+        "Imaging Tests"
+      ],
+      [
+        "Immune Checkpoint Inhibitor",
+        "Immunotherapy"
+      ],
+      [
+        "T1 Tumor",
+        "TNM Staging"
+      ],
+      [
+        "NCCN",
+        "Skin Exam"
+      ],
+      [
+        "Testing for Throat Cancer",
+        "Throat Cancer"
+      ],
+      [
+        "Clinical Trial",
+        "Systemic Therapy"
+      ],
+      [
+        "Oropharynx",
+        "This Book"
+      ],
+      [
+        "Bronchi",
+        "Lungs"
+      ],
+      [
+        "Esophageal Cancer",
+        "Siewert Types"
+      ],
+      [
+        "Actinic Keratoses",
+        "Topical Therapy"
+      ],
+      [
+        "Vitamin B12",
+        "White Blood Cell"
+      ],
+      [
+        "Lymph Nodes",
+        "Needle Biopsy"
+      ],
+      [
+        "Assessment Team",
+        "Biopsy"
+      ],
+      [
+        "FISH",
+        "Probes"
+      ],
+      [
+        "Assessment Team",
+        "Primary Care Provider"
+      ],
+      [
+        "Pathologist",
+        "Skin Biopsy"
+      ],
+      [
+        "Brain MRI Scan",
+        "Leukemic Meningitis"
+      ],
+      [
+        "High-Risk Patient",
+        "Skin Exam"
+      ],
+      [
+        "Diaphragm",
+        "Esophagogastric Junction"
+      ],
+      [
+        "NCCN",
+        "Side Effects"
+      ],
+      [
+        "Gene",
+        "Next-Generation Sequencing"
+      ],
+      [
+        "Classic Follicular Lymphoma",
+        "Health Organization Classification"
+      ],
+      [
+        "MRI",
+        "PET Scan"
+      ],
+      [
+        "Esophageal Cancer",
+        "Esophagus"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Epidermis"
+      ],
+      [
+        "External Beam Radiation Therapy",
+        "Photons"
+      ],
+      [
+        "Barrier Methods",
+        "Preventing Pregnancy"
+      ],
+      [
+        "PDEMA",
+        "Very High-Risk CSCC"
+      ],
+      [
+        "Low-Risk Patient",
+        "Skin Exam"
+      ],
+      [
+        "Burkitt Lymphoma",
+        "Germinal Center"
+      ],
+      [
+        "CPX-351",
+        "Cytarabine"
+      ],
+      [
+        "Care Team",
+        "Doctor"
+      ],
+      [
+        "Dental Procedures",
+        "Dentures"
+      ],
+      [
+        "B Lymphocyte",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Family History",
+        "Medical History"
+      ],
+      [
+        "Blood Stem Cell",
+        "Red Blood Cell (RBC)"
+      ],
+      [
+        "Lymph Nodes",
+        "Mouth Cancer"
+      ],
+      [
+        "Actinic Keratoses",
+        "Cryotherapy"
+      ],
+      [
+        "Blast",
+        "Lymphoid Progenitor Cell"
+      ],
+      [
+        "Contrast Dye",
+        "Magnetic Resonance Imaging (MRI)"
+      ],
+      [
+        "Immune-Related Adverse Events",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Carboplatin",
+        "Paclitaxel"
+      ],
+      [
+        "Nutritional And Digestive Tract Health",
+        "Ovarian Cancer"
+      ],
+      [
+        "Squamous Cell Carcinoma of the Head and Neck",
+        "Throat Cancer"
+      ],
+      [
+        "Bronchi",
+        "Respiratory System"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Genetic Syndromes"
+      ],
+      [
+        "NCCN Guidelines For Patients",
+        "Pfizer Inc."
+      ],
+      [
+        "Clinical Trial",
+        "National Cancer Institute (NCI)"
+      ],
+      [
+        "Endocrine System",
+        "Hormones"
+      ],
+      [
+        "Screen For Depression",
+        "Testing"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 3B"
+      ],
+      [
+        "Biomarker Testing",
+        "P16 (HPV) Testing"
+      ],
+      [
+        "NCCN Clinical Practice Guidelines In Oncology",
+        "National Comprehensive Cancer Network"
+      ],
+      [
+        "Chapter 2: Testing For AML",
+        "Imaging Tests"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Fair Skin"
+      ],
+      [
+        "Claustrophobia",
+        "MRI Scan"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Neck"
+      ],
+      [
+        "High-Risk CSCC",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Liver",
+        "Metastatic Cancer"
+      ],
+      [
+        "Esophageal Adenocarcinoma",
+        "North America"
+      ],
+      [
+        "DNA Sequence",
+        "Next-Generation Sequencing"
+      ],
+      [
+        "Paclitaxel",
+        "Taxane"
+      ],
+      [
+        "Care Team",
+        "Family History"
+      ],
+      [
+        "High-Risk CSCC",
+        "Risk Assessment"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Myeloblast"
+      ],
+      [
+        "Non-Small Cell Lung Cancer",
+        "Stomach Cancer"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+      ],
+      [
+        "Biopsy",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Ultrasound",
+        "Ultrasound Probe"
+      ],
+      [
+        "Blood Tests",
+        "Complete Blood Count"
+      ],
+      [
+        "Stage 2",
+        "Stage 2B"
+      ],
+      [
+        "Real-Time Or Reverse Transcriptase PCR",
+        "Targeted Therapies"
+      ],
+      [
+        "Hyperkeratosis",
+        "Topical Keratolytics"
+      ],
+      [
+        "Chromosome Translocation And Gene Rearrangement",
+        "T(8;21)(q22;q1)"
+      ],
+      [
+        "Cryotherapy",
+        "Hyperkeratosis"
+      ],
+      [
+        "Osteoporosis",
+        "Surgical Menopause"
+      ],
+      [
+        "Microscope",
+        "Mohs Surgery"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 2B"
+      ],
+      [
+        "Radiation Therapy",
+        "Surgery"
+      ],
+      [
+        "Mismatch Repair",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "HIV",
+        "Weakened Immune System"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 1B"
+      ],
+      [
+        "Biopsy",
+        "Diagnostic Laparoscopy"
+      ],
+      [
+        "Epidermal Growth Factor Receptor",
+        "Targeted Therapy"
+      ],
+      [
+        "Abdominal Exam",
+        "Ovarian Cancer"
+      ],
+      [
+        "Bone Marrow Aspirate",
+        "Pelvis"
+      ],
+      [
+        "Digestive System",
+        "Rectum"
+      ],
+      [
+        "Cancer Treatment",
+        "Smoking And Vaping"
+      ],
+      [
+        "Radiation Therapy To The Chest",
+        "SCLC"
+      ],
+      [
+        "Speech And Swallowing Assessment",
+        "Speech Or Swallowing Therapist"
+      ],
+      [
+        "Oropharynx",
+        "Tonsils"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Nodular Lymphocyte-Predominant Hodgkin Lymphoma"
+      ],
+      [
+        "Tanning Beds",
+        "Ultraviolet (UV) Radiation"
+      ],
+      [
+        "Risk Assessment",
+        "Tumor"
+      ],
+      [
+        "Care Team",
+        "Thoracic Surgeon"
+      ],
+      [
+        "Positron Emission Tomography (PET) Scan",
+        "Tracer"
+      ],
+      [
+        "Lung Diseases",
+        "Pulmonologist"
+      ],
+      [
+        "Lung Cancer",
+        "Non-Small Cell Lung Cancer"
+      ],
+      [
+        "Blood",
+        "Platelets"
+      ],
+      [
+        "Bone Marrow Or Blood Sample",
+        "Karyotype"
+      ],
+      [
+        "Bile Ducts",
+        "Liver Function Tests"
+      ],
+      [
+        "Mutation",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "AML Biomarker And Genetic Tests",
+        "Bone Marrow Aspirate And Biopsy"
+      ],
+      [
+        "Adrenal Tumors",
+        "FDG-PET Scan"
+      ],
+      [
+        "Care Team",
+        "Hematologist"
+      ],
+      [
+        "Bevacizumab",
+        "Chemotherapy"
+      ],
+      [
+        "Imaging Tests",
+        "Patient Portal"
+      ],
+      [
+        "Contrast Material",
+        "Imaging Tests"
+      ],
+      [
+        "Mohs Surgery",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Amplification",
+        "Mutation"
+      ],
+      [
+        "Primary Care Provider",
+        "Treatment Plan"
+      ],
+      [
+        "Maintenance Therapy",
+        "Olaparib"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Lung Neuroendocrine Tumors",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Ultraviolet Rays"
+      ],
+      [
+        "PML::RARA",
+        "Real-Time Or Reverse Transcriptase PCR"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Multiple Endocrine Neoplasia Type 2"
+      ],
+      [
+        "BCL2 Protein",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Radiation Therapy",
+        "Skin Redness"
+      ],
+      [
+        "Scars",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Eastern Europe",
+        "Esophageal Squamous Cell Carcinoma"
+      ],
+      [
+        "TNM System",
+        "Tumor Size"
+      ],
+      [
+        "Adrenal Tumor",
+        "FDG-PET Scan"
+      ],
+      [
+        "Medical History",
+        "Primary Care Physician"
+      ],
+      [
+        "Clinical Trial",
+        "Study Sponsor"
+      ],
+      [
+        "Esophagus",
+        "Smooth Muscle"
+      ],
+      [
+        "Assessment Team",
+        "Pulmonologist"
+      ],
+      [
+        "Clinical Trial",
+        "Phase 3 Trial"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Hormones"
+      ],
+      [
+        "Chemotherapy",
+        "Medical Oncologist"
+      ],
+      [
+        "Curettage And Electrodesiccation",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Immunohistochemistry",
+        "Immunophenotyping"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Follicular Lymphoma Grade 3A"
+      ],
+      [
+        "Ovarian Cancer",
+        "Ultrasound"
+      ],
+      [
+        "Medical Oncologist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Early And Locally Advanced NSCLC",
+        "Stage 1 Cancer"
+      ],
+      [
+        "Cancer Doctors",
+        "Systemic Therapy"
+      ],
+      [
+        "Less Common Ovarian Cancers",
+        "Tumor Markers"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Basal Cells"
+      ],
+      [
+        "Chemotherapy",
+        "Multi-Agent Chemotherapy"
+      ],
+      [
+        "Esophagogastric Junction",
+        "Esophagus"
+      ],
+      [
+        "Inversion",
+        "Mutation"
+      ],
+      [
+        "Complete Response",
+        "Observation"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Lymphatic System"
+      ],
+      [
+        "Chapter 3: Types Of Treatment",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Esophagus",
+        "Muscularis Propria"
+      ],
+      [
+        "Genetic Counselor",
+        "Genetic Testing"
+      ],
+      [
+        "Oxaliplatin",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "BCR::ABL1 Protein",
+        "CML Treatment"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Trunk"
+      ],
+      [
+        "Chemoradiation",
+        "Treatment For NSCLC"
+      ],
+      [
+        "Clinical Trials",
+        "Treatment Plan"
+      ],
+      [
+        "Patient",
+        "Treatment Team"
+      ],
+      [
+        "Bone Marrow Tests",
+        "Pathologist"
+      ],
+      [
+        "BRCA2 Gene",
+        "Hereditary Ovarian Cancer"
+      ],
+      [
+        "Metastasis",
+        "Very High-Risk CSCC"
+      ],
+      [
+        "AML",
+        "Medical History And Physical Exam"
+      ],
+      [
+        "Africa",
+        "Esophageal Squamous Cell Carcinoma"
+      ],
+      [
+        "Cancer Treatment",
+        "Vaping"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "United States"
+      ],
+      [
+        "Gene",
+        "Protein"
+      ],
+      [
+        "FIGO Stages",
+        "Stage 3A2"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "Fertility-Sparing Surgery",
+        "In Vitro Fertilization (IVF)"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Immunophenotyping"
+      ],
+      [
+        "Positron Emission Tomography (PET) Scan",
+        "Radiologist"
+      ],
+      [
+        "Head And Neck Cancer",
+        "High-Volume Center"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "AML",
+        "Bone Marrow Aspirate And Biopsy"
+      ],
+      [
+        "Cisplatin",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "Mouth Cancer",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Beckwith-Wiedemann Syndrome"
+      ],
+      [
+        "AML",
+        "Blood Stem Cells"
+      ],
+      [
+        "Ear Nose And Throat Doctor",
+        "Mouth Area"
+      ],
+      [
+        "Carboplatin",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "Antimetabolites",
+        "Cytarabine"
+      ],
+      [
+        "Immunotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Cancer Staging",
+        "Prognosis"
+      ],
+      [
+        "Actinic Keratosis",
+        "Imiquimod"
+      ],
+      [
+        "Care Team",
+        "Vaping"
+      ],
+      [
+        "Fine-Needle Aspiration",
+        "Lymph Node"
+      ],
+      [
+        "Plastic Surgeon",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "CT Scan",
+        "Radiologist"
+      ],
+      [
+        "Mouth Cancer",
+        "TNM System"
+      ],
+      [
+        "Bowens Disease",
+        "Superficial Treatments"
+      ],
+      [
+        "Contrast Material",
+        "MRI Scan"
+      ],
+      [
+        "Cancer",
+        "Metastatic Cancer"
+      ],
+      [
+        "Anthracyclines",
+        "Mitoxantrone"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Hereditary Paraganglioma-Pheochromocytoma Syndrome"
+      ],
+      [
+        "Bronchioli",
+        "Lung Carcinoma"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Surgical Oncologist"
+      ],
+      [
+        "Fallopian Tube",
+        "Ovaries"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Doctor"
+      ],
+      [
+        "SSTR-PET Scan",
+        "Somatostatin Receptor"
+      ],
+      [
+        "Early And Locally Advanced NSCLC",
+        "Stage 2 Cancer"
+      ],
+      [
+        "Bronchi",
+        "Lobes"
+      ],
+      [
+        "External Beam Radiation Therapy",
+        "Radiation Therapy"
+      ],
+      [
+        "CPX-351",
+        "Daunorubicin"
+      ],
+      [
+        "High-Risk CSCC",
+        "Recurrent Tumor"
+      ],
+      [
+        "Bile Duct",
+        "Serosa"
+      ],
+      [
+        "Cutaneous Squamous Cell Carcinoma (CSCC)",
+        "Regional Squamous Cell Skin Cancer"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Neuroblastoma"
+      ],
+      [
+        "Mirror And Fiberoptic Exam",
+        "Testing"
+      ],
+      [
+        "BRCA Genes",
+        "Germline Mutations"
+      ],
+      [
+        "Stage 3",
+        "Stage 3C"
+      ],
+      [
+        "Blast",
+        "Myeloid Progenitor Cell"
+      ],
+      [
+        "Head And Neck Cancer",
+        "Hearing Test"
+      ],
+      [
+        "Care Team",
+        "Supplements"
+      ],
+      [
+        "Connective Tissue",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Deficient Mismatch Repair",
+        "MSI-H/dMMR Mutation"
+      ],
+      [
+        "Chemotherapy",
+        "Ovarian Cancer"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Physical Exam"
+      ],
+      [
+        "Lungs",
+        "Respiration"
+      ],
+      [
+        "Lymph Node Metastasis",
+        "Regional Lymph Node"
+      ],
+      [
+        "Commercial Genetic Tests",
+        "Genetic Testing"
+      ],
+      [
+        "Carboplatin",
+        "Hypersensitivity Reactions"
+      ],
+      [
+        "Myeloid Progenitor Cells",
+        "Red Blood Cells"
+      ],
+      [
+        "PET/CT",
+        "Regional CSCC"
+      ],
+      [
+        "Blood",
+        "Plasma"
+      ],
+      [
+        "Fertility Counseling",
+        "Testing"
+      ],
+      [
+        "Blood",
+        "White Blood Cells"
+      ],
+      [
+        "Carcinoma In Situ",
+        "Intrahepatic Bile Duct Cancer"
+      ],
+      [
+        "Cancer Type",
+        "Pathologist"
+      ],
+      [
+        "Polymerase Chain Reaction",
+        "RNA"
+      ],
+      [
+        "Oropharynx",
+        "Soft Palate"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Grade 3B Follicular Lymphoma"
+      ],
+      [
+        "Lymph Node",
+        "Metastasis"
+      ],
+      [
+        "Clinical Trial",
+        "NCIs Cancer Information Service (CIS)"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Adrenocortical Carcinoma"
+      ],
+      [
+        "Maintenance Therapy",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "Blast Phase CML (BP-CML)",
+        "Blasts"
+      ],
+      [
+        "Lung Cancer Screening",
+        "Lung Nodule"
+      ],
+      [
+        "Adenoma",
+        "Functioning Tumor"
+      ],
+      [
+        "Echocardiogram",
+        "Ultrasound"
+      ],
+      [
+        "Diffuse Large B-Cell Lymphoma",
+        "Nodular Lymphocyte-Predominant Hodgkin Lymphoma"
+      ],
+      [
+        "Curettage",
+        "Hyperkeratosis"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Cancerous Tumor"
+      ],
+      [
+        "Epithelium",
+        "High-Grade Serous Carcinoma (HGSC)"
+      ],
+      [
+        "Lung Cancer Screening",
+        "Risk Factors"
+      ],
+      [
+        "Environmental Toxins",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Anthracyclines",
+        "Daunorubicin"
+      ],
+      [
+        "RET Mutations",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Actinic Keratoses",
+        "Photodynamic Therapy"
+      ],
+      [
+        "CT Scan",
+        "PET Scan"
+      ],
+      [
+        "Chromosome",
+        "Gene"
+      ],
+      [
+        "General Health Tests",
+        "Physical Exam"
+      ],
+      [
+        "Patient Portal",
+        "Test Results"
+      ],
+      [
+        "Esophageal Cancer",
+        "Mucosa"
+      ],
+      [
+        "Squamous Cell Carcinoma",
+        "Xeroderma Pigmentosum"
+      ],
+      [
+        "Immune-Related Adverse Events",
+        "NCCN Patient Guides for Cancer App"
+      ],
+      [
+        "Lymph Nodes",
+        "Stage 2 Cancer"
+      ],
+      [
+        "Clinical Trial",
+        "Recurrence"
+      ],
+      [
+        "Bleeding",
+        "Imaging Tests"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Chapter 2: Testing For Basal Cell Skin Cancer"
+      ],
+      [
+        "Squamous Cell Skin Cancer",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Bevacizumab",
+        "Olaparib"
+      ],
+      [
+        "Dermatologist",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "CSCC",
+        "Mohs Surgery"
+      ],
+      [
+        "NCCN Clinical Practice Guidelines In Oncology",
+        "NCCN Guidelines For Patients"
+      ],
+      [
+        "CT Scan",
+        "Lymph Node Biopsy"
+      ],
+      [
+        "Heavy Alcohol Use",
+        "Treatment Outcomes"
+      ],
+      [
+        "Dangerous Heart Rhythms",
+        "QTc"
+      ],
+      [
+        "Stage 3",
+        "Stage 3B"
+      ],
+      [
+        "Chemotherapy",
+        "Cisplatin"
+      ],
+      [
+        "Adenocarcinoma",
+        "Alveoli"
+      ],
+      [
+        "Biomarker Testing",
+        "Mutation"
+      ],
+      [
+        "AML Specialist",
+        "Patient"
+      ],
+      [
+        "General Health Tests",
+        "Medical History"
+      ]
+    ],
+    "count": 1291,
+    "create_time": 1767250907,
+    "update_time": 1767250907,
+    "_id": "doc-15020fd4cd7fd9c91cf0476b50c29b02"
+  }
+}
